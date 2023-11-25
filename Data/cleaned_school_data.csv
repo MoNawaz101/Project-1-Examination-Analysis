@@ -1,0 +1,58 @@
+,establishment_type,gender,total_num_schools,total_num_pupils,avg_attainment8_score,avg_progress8_score,perc_achieving_grade_5to9_eng_maths
+0,Academies and free schools,Boys,2450,238905,45.3,-0.12,44.4
+1,Academies and free schools,Girls,2481,231994,49.2,0.14,48
+2,Academies and free schools,Total,2601,470899,47.2,0.01,46.2
+3,All independent schools,Boys,1032,27596,30.7,-1.82,15
+4,All independent schools,Girls,1024,25462,38.2,-1.56,20.2
+5,All independent schools,Total,1253,53058,34.3,-1.74,17.5
+6,All schools,Boys,5258,345201,42.1,-0.21,39.9
+7,All schools,Girls,5213,326255,47.2,0.1,44.6
+8,All schools,Total,5717,671456,44.6,-0.06,42.2
+9,All special schools,Boys,1153,12064,4.1,-1.69,1.3
+10,All special schools,Girls,975,4526,3.2,-1.68,1.3
+11,All special schools,Total,1193,16590,3.9,-1.69,1.3
+12,All state-funded,Boys,3833,310628,43.9,-0.17,43
+13,All state-funded,Girls,3794,296319,48.5,0.12,47.2
+14,All state-funded,Total,4047,606947,46.2,-0.03,45
+15,All state-funded special schools,Boys,771,9536,3.1,-1.68,0.7
+16,All state-funded special schools,Girls,683,3637,1.9,-1.69,0.7
+17,All state-funded special schools,Total,780,13173,2.8,-1.68,0.7
+18,Converter academies,Boys,1446,155835,47.8,-0.03,49
+19,Converter academies,Girls,1481,155902,51.6,0.24,52.6
+20,Converter academies,Total,1583,311737,49.7,0.11,50.8
+21,FE 14-16 colleges,Boys,13,561,13.2,-2.43,11.2
+22,FE 14-16 colleges,Girls,13,610,15,-2.62,9.8
+23,FE 14-16 colleges,Total,13,1171,14.1,-2.54,10.5
+24,Free schools,Boys,162,11530,47,0.11,49.2
+25,Free schools,Girls,157,9403,49.8,0.33,50.4
+26,Free schools,Total,168,20933,48.3,0.21,49.8
+27,"Hospital, PRU & AP",Boys,384,5116,5.5,-2.84,1.4
+28,"Hospital, PRU & AP",Girls,377,2516,7.4,-3.01,3.3
+29,"Hospital, PRU & AP",Total,410,7632,6.1,-2.9,2
+30,Independent schools,Boys,650,25068,33,z,16.2
+31,Independent schools,Girls,732,24573,39.2,z,20.8
+32,Independent schools,Total,840,49641,36.1,z,18.5
+33,Independent special schools,Boys,335,2207,8.3,z,3.4
+34,Independent special schools,Girls,252,767,8.9,z,4
+35,Independent special schools,Total,362,2974,8.5,z,3.5
+36,LA maintained mainstream,Boys,596,61348,45.1,-0.13,44.1
+37,LA maintained mainstream,Girls,614,59754,49.1,0.15,47.6
+38,LA maintained mainstream,Total,650,121102,47.1,0.01,45.8
+39,Non-maintained special schools,Boys,47,321,5.7,-1.82,3.4
+40,Non-maintained special schools,Girls,40,122,7.2,-1.56,2.5
+41,Non-maintained special schools,Total,51,443,6.1,-1.74,3.2
+42,Sponsored academies,Boys,776,68311,39.8,-0.34,33.7
+43,Sponsored academies,Girls,777,64788,43.5,-0.1,36.9
+44,Sponsored academies,Total,784,133099,41.6,-0.22,35.3
+45,"State-funded inc hosp, PRU & AP",Boys,4217,315744,43.3,-0.2,42.3
+46,"State-funded inc hosp, PRU & AP",Girls,4171,298835,48.2,0.1,46.9
+47,"State-funded inc hosp, PRU & AP",Total,4457,614579,45.7,-0.06,44.5
+48,State-funded mainstream,Boys,3062,301092,45.2,-0.12,44.3
+49,State-funded mainstream,Girls,3111,292682,49.1,0.14,47.8
+50,State-funded mainstream,Total,3267,593774,47.2,0.01,46
+51,Studio schools,Boys,20,569,33.7,-0.77,21.4
+52,Studio schools,Girls,20,629,37.4,-0.68,24
+53,Studio schools,Total,20,1198,35.6,-0.72,22.8
+54,University technical colleges (UTCs),Boys,46,2660,39.3,-0.7,32.2
+55,University technical colleges (UTCs),Girls,46,1272,40.5,-0.67,35.7
+56,University technical colleges (UTCs),Total,46,3932,39.7,-0.69,33.3

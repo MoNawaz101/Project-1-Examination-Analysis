@@ -1,0 +1,516 @@
+time_period,time_identifier,version,geographic_level,country_code,country_name,establishment_type,subject,qualification_type,grade,number_achieving
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,1,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,2,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,3,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,4,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,5,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,6,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,7,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,8,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,9,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,Covid impacted,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,Total exam entries,15042
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,U,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,All Subjects,GCSE,X,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,1,890
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,2,1216
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,3,1087
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,4,402
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,5,215
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,6,109
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,7,42
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,8,18
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,9,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,Covid impacted,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,Total exam entries,5111
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,U,476
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any English,GCSE,X,649
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,1,356
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,11,118
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,2,415
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,21,132
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,22,138
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,3,226
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,32,128
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,33,91
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,4,90
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,43,85
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,44,63
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,5,54
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,54,38
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,55,45
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,6,17
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,65,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,66,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,7,16
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,76,10
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,77,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,8,7
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,87,10
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,88,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,9,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,98,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,99,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,Covid impacted,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,Total exam entries,2646
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,U,259
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any Science,GCSE,X,303
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,1,29
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,2,35
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,3,35
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,4,16
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,5,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,6,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,7,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,8,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,Total exam entries,142
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,U,10
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any design & technology,GCSE,X,6
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,1,1029
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,2,943
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,3,659
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,4,349
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,5,195
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,6,41
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,7,23
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,8,16
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,9,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,Covid impacted,12
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,Total exam entries,4211
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,U,524
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any mathematics,GCSE,X,418
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,1,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,2,8
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,3,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,4,14
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,5,27
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,6,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,7,7
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,8,8
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,9,18
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,Covid impacted,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,Total exam entries,108
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,U,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Any modern language,GCSE,X,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,1,183
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,2,244
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,3,249
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,4,161
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,5,123
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,6,55
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,7,22
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,8,8
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,9,10
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,Covid impacted,8
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,Total exam entries,1142
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,U,27
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Art and Design,GCSE,X,52
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,1,320
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,2,369
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,3,191
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,4,60
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,5,31
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,6,7
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,7,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,8,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,9,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,Covid impacted,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,Total exam entries,1176
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,U,68
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Biology,GCSE,X,117
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,1,31
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,2,24
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,3,28
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,4,17
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,5,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,6,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,7,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,8,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,Total exam entries,130
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,U,8
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Business,GCSE,X,10
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,1,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,2,18
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,3,11
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,4,14
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,5,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,6,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,7,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,8,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,9,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,Total exam entries,96
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,U,10
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Chemistry,GCSE,X,13
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,1,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,11,118
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,2,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,21,132
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,22,138
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,3,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,32,128
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,33,91
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,4,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,43,85
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,44,63
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,5,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,54,38
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,55,45
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,6,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,65,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,66,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,7,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,76,10
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,77,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,8,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,87,10
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,88,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,98,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,99,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,Covid impacted,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,Total exam entries,1194
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,U,152
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Combined Science,GCSE,X,146
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,1,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,2,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,3,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,4,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,5,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,6,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,7,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,8,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,9,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,Total exam entries,37
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,U,12
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Computer Science,GCSE,X,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,1,12
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,2,12
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,3,6
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,4,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,5,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,6,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,7,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,8,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,Total exam entries,47
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,U,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Design & Technology,GCSE,X,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,1,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,2,12
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,3,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,4,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,5,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,6,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,7,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,8,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,Total exam entries,24
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,U,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Drama,GCSE,X,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,1,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,2,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,3,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,4,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,5,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,6,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,7,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,8,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,Total exam entries,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,U,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Economics,GCSE,X,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,1,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,2,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,3,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,4,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,5,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,6,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,7,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,8,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,9,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,Covid impacted,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,Total exam entries,3831
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,U,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English & mathematics,GCSE,X,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,1,668
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,2,961
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,3,931
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,4,302
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,5,158
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,6,76
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,7,31
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,8,15
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,9,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,Total exam entries,4022
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,U,353
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Language,GCSE,X,525
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,1,222
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,2,255
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,3,156
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,4,100
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,5,57
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,6,33
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,7,11
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,8,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,9,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,Covid impacted,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,Total exam entries,1089
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,U,123
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,English Literature,GCSE,X,124
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,1,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,2,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,3,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,4,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,5,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,6,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,7,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,8,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,9,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,Covid impacted,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,Total exam entries,2254
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,U,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,"English, mathematics & science",GCSE,X,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,1,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,2,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,3,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,4,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,5,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,6,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,7,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,8,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,9,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,Total exam entries,16
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,U,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Film Studies,GCSE,X,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,1,17
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,2,23
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,3,29
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,4,11
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,5,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,6,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,7,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,8,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,Total exam entries,95
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,U,6
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Food Preparation & Nutrition,GCSE,X,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,1,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,2,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,3,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,4,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,5,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,6,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,7,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,8,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,9,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,Covid impacted,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,Total exam entries,24
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,U,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,French,GCSE,X,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,1,55
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,2,46
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,3,26
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,4,16
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,5,10
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,6,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,7,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,8,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,Total exam entries,202
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,U,24
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Geography,GCSE,X,14
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,1,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,2,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,3,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,4,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,5,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,6,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,7,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,8,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,Covid impacted,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,Total exam entries,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,U,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,German,GCSE,X,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,1,72
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,2,66
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,3,27
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,4,12
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,5,12
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,6,8
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,7,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,8,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,9,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,Covid impacted,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,Total exam entries,289
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,U,48
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,History,GCSE,X,35
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,1,1029
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,2,943
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,3,659
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,4,349
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,5,195
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,6,41
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,7,23
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,8,16
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,9,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,Covid impacted,12
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,Total exam entries,4211
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,U,524
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics,GCSE,X,418
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,1,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,2,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,3,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,4,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,5,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,6,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,7,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,8,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,9,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,Covid impacted,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,Total exam entries,2363
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,U,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Mathematics & science,GCSE,X,z
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,1,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,2,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,3,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,4,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,5,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,6,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,7,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,8,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,Total exam entries,33
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,U,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Media/Film/TV,GCSE,X,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,1,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,2,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,3,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,4,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,5,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,6,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,7,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,8,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,Total exam entries,11
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,U,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Music,GCSE,X,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,1,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,2,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,3,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,4,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,5,12
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,6,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,7,3
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,8,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,9,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,Covid impacted,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,Total exam entries,43
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,U,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Modern Languages,GCSE,X,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,1,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,2,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,3,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,4,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,5,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,6,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,7,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,8,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,Total exam entries,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,U,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Other Sciences,GCSE,X,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,1,23
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,2,15
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,3,8
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,4,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,5,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,6,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,7,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,8,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,Total exam entries,79
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,U,26
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physical Education,GCSE,X,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,1,22
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,2,24
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,3,21
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,4,14
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,5,10
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,6,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,7,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,8,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,Total exam entries,142
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,U,17
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Physics,GCSE,X,25
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,1,20
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,2,33
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,3,23
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,4,13
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,5,14
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,6,14
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,7,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,8,8
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,9,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,Covid impacted,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,Total exam entries,180
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,U,16
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Religious Studies,GCSE,X,24
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,1,100
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,2,75
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,3,74
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,4,59
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,5,25
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,6,32
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,7,9
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,8,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,9,5
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,Covid impacted,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,Total exam entries,500
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,U,60
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Social Studies,GCSE,X,56
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,1,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,2,4
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,3,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,4,6
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,5,11
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,6,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,7,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,8,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,9,6
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,Covid impacted,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,Total exam entries,38
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,U,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Spanish,GCSE,X,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,1,35
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,2,30
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,3,42
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,4,19
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,5,19
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,6,2
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,7,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,8,1
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,9,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,Covid impacted,0
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,Total exam entries,214
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,U,17
+202223,Academic year,Provisional,National,E92000001,England,Alternative provision,Statistics,GCSE,X,48
