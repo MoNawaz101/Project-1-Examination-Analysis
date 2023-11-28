@@ -1,76 +1,1207 @@
-,gender,ethnicity_major,ethnicity_minor,free_school_meals,total_num_schools,total_num_pupils,avg_attainment8_score,avg_progress8_score,perc_entered_eng_maths,perc_achieving_grade_5to9_eng_maths
-0,Boys,Asian,Any other Asian background,Total,1816,6421,51.5,0.53,95.3,59.1
-1,Boys,Asian,Bangladeshi,Total,1071,5597,49.9,0.36,96.6,56.1
-2,Boys,Asian,Chinese,Total,962,1729,63.5,0.94,97.7,75.1
-3,Boys,Asian,Indian,Total,1699,10088,57.3,0.7,97.9,68
-4,Boys,Asian,Pakistani,Total,1543,13949,44.6,0.04,96.8,44.1
-5,Boys,Asian,Total,Total,2766,37784,50.8,0.37,96.8,56.2
-6,Boys,Black,Any other black background,Total,1125,2469,40.2,-0.15,93.7,34.6
-7,Boys,Black,Black African,Total,2065,13009,45.2,0.15,95.9,45.7
-8,Boys,Black,Caribbean,Total,1071,3344,36,-0.48,95.3,26.3
-9,Boys,Black,Total,Total,2344,18822,42.9,-0.01,95.5,40.8
-10,Boys,Mixed,Any other mixed background,Total,2331,6978,46.5,-0.02,95.7,47.4
-11,Boys,Mixed,Total,Total,3185,18685,44.3,-0.18,95.1,43.8
-12,Boys,Mixed,White and Asian,Total,2059,4492,49.3,0.04,96,54.6
-13,Boys,Mixed,White and Black African,Total,1510,2598,44.3,-0.15,95.3,42.8
-14,Boys,Mixed,White and Black Caribbean,Total,1923,4617,36.3,-0.62,93.4,28.6
-15,Boys,Other,Any other ethnic group,Total,1812,6767,43.9,0.36,93.1,43.9
-16,Boys,Other,Total,Total,1812,6767,43.9,0.36,93.1,43.9
-17,Boys,Unclassified,Total,Total,1830,6207,40.1,-0.38,92.8,38.1
-18,Boys,Unclassified,Unclassified,Total,1830,6207,40.1,-0.38,92.8,38.1
-19,Boys,White,Any other white background,Total,2991,19544,46,0.3,96.2,45.1
-20,Boys,White,Gypsy/Roma,Total,421,729,19,-0.93,82,7.3
-21,Boys,White,Total,Total,3810,222363,42.9,-0.27,95.3,40.9
-22,Boys,White,Traveller of Irish heritage,Total,96,100,26.8,-1.08,82,17
-23,Boys,White,White British,Total,3771,201145,42.7,-0.31,95.2,40.6
-24,Boys,White,White Irish,Total,581,845,48.6,-0.03,95.5,52.1
-25,Girls,Asian,Any other Asian background,Total,1666,5731,57.3,0.85,98,66
-26,Girls,Asian,Bangladeshi,Total,979,5386,53.9,0.64,98.3,57.8
-27,Girls,Asian,Chinese,Total,935,1655,67.4,1.21,99.1,81.6
-28,Girls,Asian,Indian,Total,1617,9519,61.3,0.94,98.9,72.3
-29,Girls,Asian,Pakistani,Total,1401,13296,49.4,0.45,97.9,47.6
-30,Girls,Asian,Total,Total,2616,35587,55.4,0.7,98.3,60.3
-31,Girls,Black,Any other black background,Total,1103,2394,48.3,0.34,97.5,44.6
-32,Girls,Black,Black African,Total,1981,13326,51.9,0.59,98.3,54.1
-33,Girls,Black,Caribbean,Total,1053,3444,43.7,-0.01,98,35.6
-34,Girls,Black,Total,Total,2254,19164,50,0.44,98.1,49.6
-35,Girls,Mixed,Any other mixed background,Total,2288,6603,51.1,0.24,96.8,51.2
-36,Girls,Mixed,Total,Total,3030,18040,49,0.09,97,46.9
-37,Girls,Mixed,White and Asian,Total,1938,4295,54.1,0.32,98.1,57.4
-38,Girls,Mixed,White and Black African,Total,1432,2476,48.4,0.11,96.9,45.4
-39,Girls,Mixed,White and Black Caribbean,Total,1874,4666,41.7,-0.31,96,32
-40,Girls,Other,Any other ethnic group,Total,1733,6223,50.1,0.71,96.8,50.1
-41,Girls,Other,Total,Total,1733,6223,50.1,0.71,96.8,50.1
-42,Girls,Unclassified,Total,Total,1785,5763,44,-0.17,93.6,41
-43,Girls,Unclassified,Unclassified,Total,1785,5763,44,-0.17,93.6,41
-44,Girls,White,Any other white background,Total,2899,18566,50.7,0.63,97.2,49.8
-45,Girls,White,Gypsy/Roma,Total,403,700,21.5,-0.85,84.6,8
-46,Girls,White,Total,Total,3729,211542,47.3,0,96.7,45
-47,Girls,White,Traveller of Irish heritage,Total,77,89,26.8,-1.05,77.5,18
-48,Girls,White,White British,Total,3672,191381,47,-0.05,96.7,44.6
-49,Girls,White,White Irish,Total,566,806,52.5,0.18,95.9,57.1
-50,Total,Asian,Any other Asian background,Total,2398,12152,54.2,0.69,96.6,62.3
-51,Total,Asian,Bangladeshi,Total,1503,10983,51.8,0.5,97.5,56.9
-52,Total,Asian,Chinese,Total,1496,3384,65.4,1.07,98.4,78.3
-53,Total,Asian,Indian,Total,2256,19607,59.3,0.82,98.4,70.1
-54,Total,Asian,Pakistani,Total,1938,27245,46.9,0.24,97.3,45.8
-55,Total,Asian,Total,Total,3228,73371,53,0.53,97.5,58.2
-56,Total,Black,Any other black background,Total,1650,4863,44.2,0.09,95.6,39.5
-57,Total,Black,Black African,Total,2582,26335,48.6,0.37,97.1,50
-58,Total,Black,Caribbean,Total,1494,6788,39.9,-0.24,96.7,31
-59,Total,Black,Total,Total,2878,37986,46.5,0.22,96.8,45.2
-60,Total,Mixed,Any other mixed background,Total,3018,13581,48.7,0.11,96.2,49.2
-61,Total,Mixed,Total,Total,3591,36725,46.6,-0.04,96,45.3
-62,Total,Mixed,White and Asian,Total,2737,8787,51.6,0.18,97,56
-63,Total,Mixed,White and Black African,Total,2200,5074,46.3,-0.02,96.1,44.1
-64,Total,Mixed,White and Black Caribbean,Total,2562,9283,39,-0.46,94.7,30.3
-65,Total,Other,Any other ethnic group,Total,2413,12990,46.9,0.53,94.8,46.9
-66,Total,Other,Total,Total,2413,12990,46.9,0.53,94.8,46.9
-67,Total,Unclassified,Total,Total,2455,11970,42,-0.28,93.1,39.5
-68,Total,Unclassified,Unclassified,Total,2455,11970,42,-0.28,93.1,39.5
-69,Total,White,Any other white background,Total,3460,38110,48.3,0.46,96.7,47.4
-70,Total,White,Gypsy/Roma,Total,675,1429,20.2,-0.89,83.3,7.6
-71,Total,White,Total,Total,4025,433905,45.1,-0.14,96,42.9
-72,Total,White,Traveller of Irish heritage,Total,168,189,26.8,-1.07,79.9,17.5
-73,Total,White,White British,Total,4000,392526,44.8,-0.18,96,42.5
-74,Total,White,White Irish,Total,989,1651,50.5,0.07,95.7,54.5
+,time_period,gender,ethnicity_major,ethnicity_minor,free_school_meals,total_num_schools,total_num_pupils,avg_attainment8_score,avg_progress8_score,perc_entered_eng_maths,perc_achieving_grade_5to9_eng_maths
+0,202223,Boys,Asian,Any other Asian background,FSM,805,1398,41.9,0.3,93.3,41.7
+1,202223,Boys,Asian,Any other Asian background,FSM all other,1608,5023,54.2,0.59,95.9,63.9
+2,202223,Boys,Asian,Any other Asian background,Total,1816,6421,51.5,0.53,95.3,59.1
+3,202223,Boys,Asian,Bangladeshi,FSM,539,1960,45.7,0.14,95.4,49.1
+4,202223,Boys,Asian,Bangladeshi,FSM all other,921,3637,52.1,0.48,97.2,59.8
+5,202223,Boys,Asian,Bangladeshi,Total,1071,5597,49.9,0.36,96.6,56.1
+6,202223,Boys,Asian,Chinese,FSM,107,119,59.3,0.82,95.8,73.9
+7,202223,Boys,Asian,Chinese,FSM all other,909,1610,63.8,0.95,97.8,75.2
+8,202223,Boys,Asian,Chinese,Total,962,1729,63.5,0.94,97.7,75.1
+9,202223,Boys,Asian,Indian,FSM,436,863,46.3,0.26,96.1,46.6
+10,202223,Boys,Asian,Indian,FSM all other,1646,9225,58.3,0.74,98,70
+11,202223,Boys,Asian,Indian,Total,1699,10088,57.3,0.7,97.9,68
+12,202223,Boys,Asian,Pakistani,FSM,902,3819,39.3,-0.19,95.2,33.8
+13,202223,Boys,Asian,Pakistani,FSM all other,1395,10130,46.6,0.13,97.3,48
+14,202223,Boys,Asian,Pakistani,Total,1543,13949,44.6,0.04,96.8,44.1
+15,202223,Boys,Asian,Total,FSM,1558,8159,42.3,0.03,95,40.8
+16,202223,Boys,Asian,Total,FSM all other,2643,29625,53.1,0.47,97.3,60.5
+17,202223,Boys,Asian,Total,Total,2766,37784,50.8,0.37,96.8,56.2
+18,202223,Boys,Black,Any other black background,FSM,579,901,34.3,-0.51,90.8,23.1
+19,202223,Boys,Black,Any other black background,FSM all other,866,1568,43.7,0.05,95.4,41.2
+20,202223,Boys,Black,Any other black background,Total,1125,2469,40.2,-0.15,93.7,34.6
+21,202223,Boys,Black,Black African,FSM,1245,4387,41,0.01,94,38.2
+22,202223,Boys,Black,Black African,FSM all other,1866,8622,47.3,0.22,96.8,49.5
+23,202223,Boys,Black,Black African,Total,2065,13009,45.2,0.15,95.9,45.7
+24,202223,Boys,Black,Caribbean,FSM,616,1312,30.9,-0.72,93.2,17.9
+25,202223,Boys,Black,Caribbean,FSM all other,857,2032,39.2,-0.31,96.7,31.6
+26,202223,Boys,Black,Caribbean,Total,1071,3344,36,-0.48,95.3,26.3
+27,202223,Boys,Black,Total,FSM,1507,6600,38.1,-0.21,93.4,32.1
+28,202223,Boys,Black,Total,FSM all other,2115,12222,45.5,0.1,96.6,45.5
+29,202223,Boys,Black,Total,Total,2344,18822,42.9,-0.01,95.5,40.8
+30,202223,Boys,Mixed,Any other mixed background,FSM,1191,1942,35.8,-0.54,91.2,29.1
+31,202223,Boys,Mixed,Any other mixed background,FSM all other,1973,5036,50.6,0.19,97.4,54.4
+32,202223,Boys,Mixed,Any other mixed background,Total,2331,6978,46.5,-0.02,95.7,47.4
+33,202223,Boys,Mixed,Total,FSM,2226,5675,33.9,-0.69,90.8,26.1
+34,202223,Boys,Mixed,Total,FSM all other,2881,13010,48.9,0.05,97,51.6
+35,202223,Boys,Mixed,Total,Total,3185,18685,44.3,-0.18,95.1,43.8
+36,202223,Boys,Mixed,White and Asian,FSM,762,1020,35.8,-0.62,92.5,31.4
+37,202223,Boys,Mixed,White and Asian,FSM all other,1750,3472,53.2,0.24,97.1,61.4
+38,202223,Boys,Mixed,White and Asian,Total,2059,4492,49.3,0.04,96,54.6
+39,202223,Boys,Mixed,White and Black African,FSM,690,871,36.4,-0.52,91.4,28.1
+40,202223,Boys,Mixed,White and Black African,FSM all other,1141,1727,48.3,0.05,97.3,50.2
+41,202223,Boys,Mixed,White and Black African,Total,1510,2598,44.3,-0.15,95.3,42.8
+42,202223,Boys,Mixed,White and Black Caribbean,FSM,1111,1842,29.7,-0.97,89.3,18.9
+43,202223,Boys,Mixed,White and Black Caribbean,FSM all other,1507,2775,40.7,-0.39,96.1,35
+44,202223,Boys,Mixed,White and Black Caribbean,Total,1923,4617,36.3,-0.62,93.4,28.6
+45,202223,Boys,Other,Any other ethnic group,FSM,995,2589,38.3,0.13,91.7,32.6
+46,202223,Boys,Other,Any other ethnic group,FSM all other,1510,4178,47.4,0.49,93.9,50.9
+47,202223,Boys,Other,Any other ethnic group,Total,1812,6767,43.9,0.36,93.1,43.9
+48,202223,Boys,Other,Total,FSM,995,2589,38.3,0.13,91.7,32.6
+49,202223,Boys,Other,Total,FSM all other,1510,4178,47.4,0.49,93.9,50.9
+50,202223,Boys,Other,Total,Total,1812,6767,43.9,0.36,93.1,43.9
+51,202223,Boys,Total,Total,FSM,3787,70271,32.3,-0.72,90,23.1
+52,202223,Boys,Total,Total,FSM all other,3817,240357,47.3,-0.01,96.9,48.7
+53,202223,Boys,Total,Total,Total,3833,310628,43.9,-0.17,95.4,43
+54,202223,Boys,Unclassified,Total,FSM,896,1540,32.3,-0.67,90.7,23.4
+55,202223,Boys,Unclassified,Total,FSM all other,1540,4667,42.7,-0.28,93.4,43
+56,202223,Boys,Unclassified,Total,Total,1830,6207,40.1,-0.38,92.8,38.1
+57,202223,Boys,Unclassified,Unclassified,FSM,896,1540,32.3,-0.67,90.7,23.4
+58,202223,Boys,Unclassified,Unclassified,FSM all other,1540,4667,42.7,-0.28,93.4,43
+59,202223,Boys,Unclassified,Unclassified,Total,1830,6207,40.1,-0.38,92.8,38.1
+60,202223,Boys,White,Any other white background,FSM,1613,3436,36.4,-0.14,92.3,28.6
+61,202223,Boys,White,Any other white background,FSM all other,2820,16108,48,0.39,97.1,48.6
+62,202223,Boys,White,Any other white background,Total,2991,19544,46,0.3,96.2,45.1
+63,202223,Boys,White,Gypsy/Roma,FSM,242,388,15.1,-1.18,75.5,3.1
+64,202223,Boys,White,Gypsy/Roma,FSM all other,249,341,23.4,-0.65,89.4,12
+65,202223,Boys,White,Gypsy/Roma,Total,421,729,19,-0.93,82,7.3
+66,202223,Boys,White,Total,FSM,3698,45708,29.2,-0.95,88.3,17.8
+67,202223,Boys,White,Total,FSM all other,3751,176655,46.5,-0.09,97.1,46.9
+68,202223,Boys,White,Total,Total,3810,222363,42.9,-0.27,95.3,40.9
+69,202223,Boys,White,Traveller of Irish heritage,FSM,66,68,21.2,-1.27,76.5,10.3
+70,202223,Boys,White,Traveller of Irish heritage,FSM all other,32,32,38.7,-0.68,93.8,31.3
+71,202223,Boys,White,Traveller of Irish heritage,Total,96,100,26.8,-1.08,82,17
+72,202223,Boys,White,White British,FSM,3627,41658,28.7,-1,88.2,17
+73,202223,Boys,White,White British,FSM all other,3680,159487,46.4,-0.14,97.1,46.8
+74,202223,Boys,White,White British,Total,3771,201145,42.7,-0.31,95.2,40.6
+75,202223,Boys,White,White Irish,FSM,147,158,30.1,-0.85,86.1,20.3
+76,202223,Boys,White,White Irish,FSM all other,467,687,52.9,0.17,97.7,59.4
+77,202223,Boys,White,White Irish,Total,581,845,48.6,-0.03,95.5,52.1
+78,202223,Girls,Asian,Any other Asian background,FSM,683,1214,47.4,0.61,95.8,46.6
+79,202223,Girls,Asian,Any other Asian background,FSM all other,1471,4517,59.9,0.91,98.6,71.2
+80,202223,Girls,Asian,Any other Asian background,Total,1666,5731,57.3,0.85,98,66
+81,202223,Girls,Asian,Bangladeshi,FSM,479,1830,49.6,0.41,98,48.5
+82,202223,Girls,Asian,Bangladeshi,FSM all other,846,3556,56.1,0.75,98.5,62.5
+83,202223,Girls,Asian,Bangladeshi,Total,979,5386,53.9,0.64,98.3,57.8
+84,202223,Girls,Asian,Chinese,FSM,103,108,60.8,0.96,95.4,76.9
+85,202223,Girls,Asian,Chinese,FSM all other,884,1547,67.9,1.23,99.4,81.9
+86,202223,Girls,Asian,Chinese,Total,935,1655,67.4,1.21,99.1,81.6
+87,202223,Girls,Asian,Indian,FSM,416,813,50.7,0.56,98.3,50.7
+88,202223,Girls,Asian,Indian,FSM all other,1547,8706,62.3,0.98,99,74.4
+89,202223,Girls,Asian,Indian,Total,1617,9519,61.3,0.94,98.9,72.3
+90,202223,Girls,Asian,Pakistani,FSM,838,3845,44.9,0.23,97,38.5
+91,202223,Girls,Asian,Pakistani,FSM all other,1256,9451,51.2,0.54,98.2,51.2
+92,202223,Girls,Asian,Pakistani,Total,1401,13296,49.4,0.45,97.9,47.6
+93,202223,Girls,Asian,Total,FSM,1421,7810,47.2,0.37,97.1,43.9
+94,202223,Girls,Asian,Total,FSM all other,2483,27777,57.7,0.79,98.6,64.9
+95,202223,Girls,Asian,Total,Total,2616,35587,55.4,0.7,98.3,60.3
+96,202223,Girls,Black,Any other black background,FSM,559,854,43.5,0.11,97,35.4
+97,202223,Girls,Black,Any other black background,FSM all other,859,1540,50.9,0.47,97.7,49.7
+98,202223,Girls,Black,Any other black background,Total,1103,2394,48.3,0.34,97.5,44.6
+99,202223,Girls,Black,Black African,FSM,1193,4333,48.2,0.43,97.6,45.8
+100,202223,Girls,Black,Black African,FSM all other,1812,8993,53.7,0.67,98.6,58.1
+101,202223,Girls,Black,Black African,Total,1981,13326,51.9,0.59,98.3,54.1
+102,202223,Girls,Black,Caribbean,FSM,629,1401,39.2,-0.26,96.8,26.1
+103,202223,Girls,Black,Caribbean,FSM all other,836,2043,46.8,0.16,98.9,42.1
+104,202223,Girls,Black,Caribbean,Total,1053,3444,43.7,-0.01,98,35.6
+105,202223,Girls,Black,Total,FSM,1470,6588,45.7,0.23,97.4,40.3
+106,202223,Girls,Black,Total,FSM all other,2044,12576,52.3,0.55,98.5,54.5
+107,202223,Girls,Black,Total,Total,2254,19164,50,0.44,98.1,49.6
+108,202223,Girls,Mixed,Any other mixed background,FSM,1158,1819,42.1,-0.21,94.6,33.7
+109,202223,Girls,Mixed,Any other mixed background,FSM all other,1958,4784,54.5,0.41,97.7,57.8
+110,202223,Girls,Mixed,Any other mixed background,Total,2288,6603,51.1,0.24,96.8,51.2
+111,202223,Girls,Mixed,Total,FSM,2127,5485,39.4,-0.38,94.7,28.7
+112,202223,Girls,Mixed,Total,FSM all other,2779,12555,53.2,0.31,97.9,54.9
+113,202223,Girls,Mixed,Total,Total,3030,18040,49,0.09,97,46.9
+114,202223,Girls,Mixed,White and Asian,FSM,713,942,41.8,-0.25,96.1,34.7
+115,202223,Girls,Mixed,White and Asian,FSM all other,1640,3353,57.5,0.49,98.7,63.8
+116,202223,Girls,Mixed,White and Asian,Total,1938,4295,54.1,0.32,98.1,57.4
+117,202223,Girls,Mixed,White and Black African,FSM,680,853,41.2,-0.2,95.3,31.3
+118,202223,Girls,Mixed,White and Black African,FSM all other,1075,1623,52.3,0.29,97.8,52.9
+119,202223,Girls,Mixed,White and Black African,Total,1432,2476,48.4,0.11,96.9,45.4
+120,202223,Girls,Mixed,White and Black Caribbean,FSM,1115,1871,34.6,-0.69,93.7,19.5
+121,202223,Girls,Mixed,White and Black Caribbean,FSM all other,1460,2795,46.5,-0.06,97.6,40.4
+122,202223,Girls,Mixed,White and Black Caribbean,Total,1874,4666,41.7,-0.31,96,32
+123,202223,Girls,Other,Any other ethnic group,FSM,962,2516,43.9,0.56,95.4,38.4
+124,202223,Girls,Other,Any other ethnic group,FSM all other,1420,3707,54.3,0.81,97.7,58
+125,202223,Girls,Other,Any other ethnic group,Total,1733,6223,50.1,0.71,96.8,50.1
+126,202223,Girls,Other,Total,FSM,962,2516,43.9,0.56,95.4,38.4
+127,202223,Girls,Other,Total,FSM all other,1420,3707,54.3,0.81,97.7,58
+128,202223,Girls,Other,Total,Total,1733,6223,50.1,0.71,96.8,50.1
+129,202223,Girls,Total,Total,FSM,3664,66951,37.2,-0.44,93.7,26.3
+130,202223,Girls,Total,Total,FSM all other,3705,229368,51.8,0.28,97.9,53.4
+131,202223,Girls,Total,Total,Total,3794,296319,48.5,0.12,97,47.2
+132,202223,Girls,Unclassified,Total,FSM,823,1379,37.7,-0.43,93.5,27
+133,202223,Girls,Unclassified,Total,FSM all other,1546,4384,46,-0.08,93.6,45.4
+134,202223,Girls,Unclassified,Total,Total,1785,5763,44,-0.17,93.6,41
+135,202223,Girls,Unclassified,Unclassified,FSM,823,1379,37.7,-0.43,93.5,27
+136,202223,Girls,Unclassified,Unclassified,FSM all other,1546,4384,46,-0.08,93.6,45.4
+137,202223,Girls,Unclassified,Unclassified,Total,1785,5763,44,-0.17,93.6,41
+138,202223,Girls,White,Any other white background,FSM,1589,3262,41,0.15,94.5,32.7
+139,202223,Girls,White,Any other white background,FSM all other,2757,15304,52.8,0.72,97.8,53.5
+140,202223,Girls,White,Any other white background,Total,2899,18566,50.7,0.63,97.2,49.8
+141,202223,Girls,White,Gypsy/Roma,FSM,212,380,17.1,-1.1,81.6,3.4
+142,202223,Girls,White,Gypsy/Roma,FSM all other,238,320,26.8,-0.5,88.1,13.4
+143,202223,Girls,White,Gypsy/Roma,Total,403,700,21.5,-0.85,84.6,8
+144,202223,Girls,White,Total,FSM,3534,43173,33.4,-0.72,92.2,20
+145,202223,Girls,White,Total,FSM all other,3610,168369,50.8,0.18,97.9,51.4
+146,202223,Girls,White,Total,Total,3729,211542,47.3,0,96.7,45
+147,202223,Girls,White,Traveller of Irish heritage,FSM,53,58,21,-1.36,70.7,8.6
+148,202223,Girls,White,Traveller of Irish heritage,FSM all other,27,31,37.5,-0.5,90.3,35.5
+149,202223,Girls,White,Traveller of Irish heritage,Total,77,89,26.8,-1.05,77.5,18
+150,202223,Girls,White,White British,FSM,3454,39332,33,-0.77,92.2,19.1
+151,202223,Girls,White,White British,FSM all other,3515,152049,50.7,0.14,97.9,51.2
+152,202223,Girls,White,White British,Total,3672,191381,47,-0.05,96.7,44.6
+153,202223,Girls,White,White Irish,FSM,127,141,33.7,-0.56,90.8,18.4
+154,202223,Girls,White,White Irish,FSM all other,468,665,56.6,0.33,97,65.3
+155,202223,Girls,White,White Irish,Total,566,806,52.5,0.18,95.9,57.1
+156,202223,Total,Asian,Any other Asian background,FSM,1165,2612,44.4,0.45,94.4,44
+157,202223,Total,Asian,Any other Asian background,FSM all other,2180,9540,56.9,0.75,97.2,67.3
+158,202223,Total,Asian,Any other Asian background,Total,2398,12152,54.2,0.69,96.6,62.3
+159,202223,Total,Asian,Bangladeshi,FSM,769,3790,47.6,0.27,96.6,48.8
+160,202223,Total,Asian,Bangladeshi,FSM all other,1327,7193,54,0.62,97.9,61.2
+161,202223,Total,Asian,Bangladeshi,Total,1503,10983,51.8,0.5,97.5,56.9
+162,202223,Total,Asian,Chinese,FSM,200,227,60.1,0.88,95.6,75.3
+163,202223,Total,Asian,Chinese,FSM all other,1422,3157,65.8,1.09,98.6,78.5
+164,202223,Total,Asian,Chinese,Total,1496,3384,65.4,1.07,98.4,78.3
+165,202223,Total,Asian,Indian,FSM,683,1676,48.5,0.41,97.1,48.6
+166,202223,Total,Asian,Indian,FSM all other,2179,17931,60.3,0.86,98.5,72.1
+167,202223,Total,Asian,Indian,Total,2256,19607,59.3,0.82,98.4,70.1
+168,202223,Total,Asian,Pakistani,FSM,1215,7664,42.1,0.02,96.1,36.2
+169,202223,Total,Asian,Pakistani,FSM all other,1765,19581,48.8,0.33,97.8,49.6
+170,202223,Total,Asian,Pakistani,Total,1938,27245,46.9,0.24,97.3,45.8
+171,202223,Total,Asian,Total,FSM,2027,15969,44.7,0.2,96.1,42.3
+172,202223,Total,Asian,Total,FSM all other,3105,57402,55.3,0.63,98,62.6
+173,202223,Total,Asian,Total,Total,3228,73371,53,0.53,97.5,58.2
+174,202223,Total,Black,Any other black background,FSM,910,1755,38.7,-0.2,93.8,29.1
+175,202223,Total,Black,Any other black background,FSM all other,1340,3108,47.3,0.26,96.6,45.4
+176,202223,Total,Black,Any other black background,Total,1650,4863,44.2,0.09,95.6,39.5
+177,202223,Total,Black,Black African,FSM,1671,8720,44.6,0.22,95.8,42
+178,202223,Total,Black,Black African,FSM all other,2417,17615,50.6,0.45,97.7,53.9
+179,202223,Total,Black,Black African,Total,2582,26335,48.6,0.37,97.1,50
+180,202223,Total,Black,Caribbean,FSM,923,2713,35.2,-0.48,95.1,22.2
+181,202223,Total,Black,Caribbean,FSM all other,1242,4075,43,-0.08,97.8,36.9
+182,202223,Total,Black,Caribbean,Total,1494,6788,39.9,-0.24,96.7,31
+183,202223,Total,Black,Total,FSM,2008,13188,41.9,0.01,95.4,36.2
+184,202223,Total,Black,Total,FSM all other,2670,24798,48.9,0.33,97.6,50
+185,202223,Total,Black,Total,Total,2878,37986,46.5,0.22,96.8,45.2
+186,202223,Total,Mixed,Any other mixed background,FSM,1836,3761,38.9,-0.38,92.9,31.3
+187,202223,Total,Mixed,Any other mixed background,FSM all other,2683,9820,52.5,0.3,97.5,56.1
+188,202223,Total,Mixed,Any other mixed background,Total,3018,13581,48.7,0.11,96.2,49.2
+189,202223,Total,Mixed,Total,FSM,2893,11160,36.6,-0.54,92.7,27.3
+190,202223,Total,Mixed,Total,FSM all other,3345,25565,51,0.18,97.5,53.2
+191,202223,Total,Mixed,Total,Total,3591,36725,46.6,-0.04,96,45.3
+192,202223,Total,Mixed,White and Asian,FSM,1254,1962,38.7,-0.44,94.2,33
+193,202223,Total,Mixed,White and Asian,FSM all other,2422,6825,55.3,0.36,97.9,62.6
+194,202223,Total,Mixed,White and Asian,Total,2737,8787,51.6,0.18,97,56
+195,202223,Total,Mixed,White and Black African,FSM,1146,1724,38.7,-0.37,93.3,29.7
+196,202223,Total,Mixed,White and Black African,FSM all other,1752,3350,50.2,0.16,97.5,51.5
+197,202223,Total,Mixed,White and Black African,Total,2200,5074,46.3,-0.02,96.1,44.1
+198,202223,Total,Mixed,White and Black Caribbean,FSM,1660,3713,32.2,-0.83,91.5,19.2
+199,202223,Total,Mixed,White and Black Caribbean,FSM all other,2158,5570,43.6,-0.22,96.9,37.7
+200,202223,Total,Mixed,White and Black Caribbean,Total,2562,9283,39,-0.46,94.7,30.3
+201,202223,Total,Other,Any other ethnic group,FSM,1431,5105,41.1,0.34,93.5,35.5
+202,202223,Total,Other,Any other ethnic group,FSM all other,2105,7885,50.6,0.65,95.7,54.2
+203,202223,Total,Other,Any other ethnic group,Total,2413,12990,46.9,0.53,94.8,46.9
+204,202223,Total,Other,Total,FSM,1431,5105,41.1,0.34,93.5,35.5
+205,202223,Total,Other,Total,FSM all other,2105,7885,50.6,0.65,95.7,54.2
+206,202223,Total,Other,Total,Total,2413,12990,46.9,0.53,94.8,46.9
+207,202223,Total,Total,Total,FSM,4018,137222,34.7,-0.58,91.8,24.7
+208,202223,Total,Total,Total,FSM all other,4040,469725,49.5,0.13,97.4,51
+209,202223,Total,Total,Total,Total,4047,606947,46.2,-0.03,96.1,45
+210,202223,Total,Unclassified,Total,FSM,1349,2919,34.8,-0.55,92.1,25.1
+211,202223,Total,Unclassified,Total,FSM all other,2168,9051,44.3,-0.18,93.5,44.1
+212,202223,Total,Unclassified,Total,Total,2455,11970,42,-0.28,93.1,39.5
+213,202223,Total,Unclassified,Unclassified,FSM,1349,2919,34.8,-0.55,92.1,25.1
+214,202223,Total,Unclassified,Unclassified,FSM all other,2168,9051,44.3,-0.18,93.5,44.1
+215,202223,Total,Unclassified,Unclassified,Total,2455,11970,42,-0.28,93.1,39.5
+216,202223,Total,White,Any other white background,FSM,2276,6698,38.6,0,93.4,30.6
+217,202223,Total,White,Any other white background,FSM all other,3321,31412,50.4,0.55,97.4,51
+218,202223,Total,White,Any other white background,Total,3460,38110,48.3,0.46,96.7,47.4
+219,202223,Total,White,Gypsy/Roma,FSM,393,768,16.1,-1.14,78.5,3.3
+220,202223,Total,White,Gypsy/Roma,FSM all other,414,661,25.1,-0.58,88.8,12.7
+221,202223,Total,White,Gypsy/Roma,Total,675,1429,20.2,-0.89,83.3,7.6
+222,202223,Total,White,Total,FSM,3938,88881,31.2,-0.84,90.2,18.8
+223,202223,Total,White,Total,FSM all other,3987,345024,48.6,0.04,97.4,49.1
+224,202223,Total,White,Total,Total,4025,433905,45.1,-0.14,96,42.9
+225,202223,Total,White,Traveller of Irish heritage,FSM,116,126,21.1,-1.31,73.8,9.5
+226,202223,Total,White,Traveller of Irish heritage,FSM all other,57,63,38.1,-0.59,92.1,33.3
+227,202223,Total,White,Traveller of Irish heritage,Total,168,189,26.8,-1.07,79.9,17.5
+228,202223,Total,White,White British,FSM,3888,80990,30.8,-0.89,90.1,18
+229,202223,Total,White,White British,FSM all other,3929,311536,48.5,0,97.5,48.9
+230,202223,Total,White,White British,Total,4000,392526,44.8,-0.18,96,42.5
+231,202223,Total,White,White Irish,FSM,262,299,31.8,-0.72,88.3,19.4
+232,202223,Total,White,White Irish,FSM all other,812,1352,54.7,0.25,97.3,62.3
+233,202223,Total,White,White Irish,Total,989,1651,50.5,0.07,95.7,54.5
+234,202122,Boys,Asian,Any other Asian background,FSM,712,1217,45.5,0.31,92.8,46.8
+235,202122,Boys,Asian,Any other Asian background,FSM all other,1538,4787,56.5,0.58,96.4,67.1
+236,202122,Boys,Asian,Any other Asian background,Total,1730,6004,54.3,0.53,95.7,63
+237,202122,Boys,Asian,Bangladeshi,FSM,531,1703,47,0.13,94.5,51.8
+238,202122,Boys,Asian,Bangladeshi,FSM all other,919,3689,54.6,0.51,97.7,64.9
+239,202122,Boys,Asian,Bangladeshi,Total,1077,5392,52.2,0.39,96.7,60.8
+240,202122,Boys,Asian,Indian,FSM,415,839,48.1,0.24,96.2,51.1
+241,202122,Boys,Asian,Indian,FSM all other,1461,8572,60.2,0.74,98.1,72.4
+242,202122,Boys,Asian,Indian,Total,1535,9411,59.1,0.7,97.9,70.5
+243,202122,Boys,Asian,Pakistani,FSM,882,3480,40.9,-0.23,95.2,38.2
+244,202122,Boys,Asian,Pakistani,FSM all other,1332,10139,48.3,0.16,97.2,51.9
+245,202122,Boys,Asian,Pakistani,Total,1485,13619,46.4,0.06,96.7,48.4
+246,202122,Boys,Asian,Total,FSM,1461,7239,43.9,-0.01,94.7,44.4
+247,202122,Boys,Asian,Total,FSM all other,2390,27187,54.4,0.46,97.4,62.8
+248,202122,Boys,Asian,Total,Total,2536,34426,52.2,0.36,96.9,58.9
+249,202122,Boys,Black,Any other black background,FSM,514,792,39.3,-0.31,92.4,32.2
+250,202122,Boys,Black,Any other black background,FSM all other,867,1537,44.4,-0.11,95.8,42.5
+251,202122,Boys,Black,Any other black background,Total,1096,2329,42.7,-0.18,94.6,39
+252,202122,Boys,Black,Black African,FSM,1143,3832,42.8,-0.05,93.4,40.8
+253,202122,Boys,Black,Black African,FSM all other,1696,8379,49.3,0.17,97,53.4
+254,202122,Boys,Black,Black African,Total,1903,12211,47.3,0.1,95.9,49.4
+255,202122,Boys,Black,Caribbean,FSM,612,1309,32.8,-0.81,91.1,21.1
+256,202122,Boys,Black,Caribbean,FSM all other,897,2231,41,-0.43,96.4,34
+257,202122,Boys,Black,Caribbean,Total,1097,3540,37.9,-0.57,94.4,29.2
+258,202122,Boys,Black,Total,FSM,1411,5933,40.1,-0.26,92.8,35.3
+259,202122,Boys,Black,Total,FSM all other,2026,12147,47.2,0.02,96.7,48.4
+260,202122,Boys,Black,Total,Total,2241,18080,44.9,-0.07,95.4,44.1
+261,202122,Boys,Chinese,Chinese,FSM,104,115,57.9,0.52,93.9,68.7
+262,202122,Boys,Chinese,Chinese,FSM all other,744,1124,64,0.84,97.2,76.5
+263,202122,Boys,Chinese,Chinese,Total,798,1239,63.5,0.81,96.9,75.8
+264,202122,Boys,Chinese,Total,FSM,104,115,57.9,0.52,93.9,68.7
+265,202122,Boys,Chinese,Total,FSM all other,744,1124,64,0.84,97.2,76.5
+266,202122,Boys,Chinese,Total,Total,798,1239,63.5,0.81,96.9,75.8
+267,202122,Boys,Mixed,Any other mixed background,FSM,1057,1639,37.9,-0.53,91.5,31.8
+268,202122,Boys,Mixed,Any other mixed background,FSM all other,1946,4711,52.3,0.09,97,56.7
+269,202122,Boys,Mixed,Any other mixed background,Total,2280,6350,48.6,-0.07,95.6,50.3
+270,202122,Boys,Mixed,Total,FSM,2066,4864,36.1,-0.7,90.8,28.5
+271,202122,Boys,Mixed,Total,FSM all other,2821,12451,50.9,-0.02,97.1,54.6
+272,202122,Boys,Mixed,Total,Total,3119,17315,46.8,-0.21,95.3,47.3
+273,202122,Boys,Mixed,White and Asian,FSM,670,882,38.6,-0.62,92.4,33.6
+274,202122,Boys,Mixed,White and Asian,FSM all other,1710,3393,55.9,0.25,97.4,65
+275,202122,Boys,Mixed,White and Asian,Total,1968,4275,52.3,0.07,96.4,58.5
+276,202122,Boys,Mixed,White and Black African,FSM,596,740,38.5,-0.5,92.6,32.8
+277,202122,Boys,Mixed,White and Black African,FSM all other,1106,1599,49.7,-0.06,97.6,52.2
+278,202122,Boys,Mixed,White and Black African,Total,1426,2339,46.2,-0.2,96,46
+279,202122,Boys,Mixed,White and Black Caribbean,FSM,1032,1603,31.7,-0.99,88.3,20.2
+280,202122,Boys,Mixed,White and Black Caribbean,FSM all other,1459,2748,43.2,-0.47,96.4,39.8
+281,202122,Boys,Mixed,White and Black Caribbean,Total,1848,4351,39,-0.66,93.4,32.6
+282,202122,Boys,Other,Any other ethnic group,FSM,913,2206,40.6,0.09,92,37.3
+283,202122,Boys,Other,Any other ethnic group,FSM all other,1444,4154,50.1,0.51,94.4,54.7
+284,202122,Boys,Other,Any other ethnic group,Total,1741,6360,46.8,0.37,93.6,48.6
+285,202122,Boys,Other,Total,FSM,913,2206,40.6,0.09,92,37.3
+286,202122,Boys,Other,Total,FSM all other,1444,4154,50.1,0.51,94.4,54.7
+287,202122,Boys,Other,Total,Total,1741,6360,46.8,0.37,93.6,48.6
+288,202122,Boys,Total,Total,FSM,3733,62266,34.4,-0.75,89.9,26.3
+289,202122,Boys,Total,Total,FSM all other,3779,238251,49.4,-0.07,97,52.5
+290,202122,Boys,Total,Total,Total,3803,300517,46.3,-0.21,95.5,47
+291,202122,Boys,Unclassified,Total,FSM,716,1199,34.3,-0.75,90.1,26.1
+292,202122,Boys,Unclassified,Total,FSM all other,1481,4525,42.2,-0.49,91,43.8
+293,202122,Boys,Unclassified,Total,Total,1696,5724,40.5,-0.55,90.8,40.1
+294,202122,Boys,Unclassified,Unclassified,FSM,716,1199,34.3,-0.75,90.1,26.1
+295,202122,Boys,Unclassified,Unclassified,FSM all other,1481,4525,42.2,-0.49,91,43.8
+296,202122,Boys,Unclassified,Unclassified,Total,1696,5724,40.5,-0.55,90.8,40.1
+297,202122,Boys,White,Any other white background,FSM,1297,2660,39.1,-0.16,92.6,33.2
+298,202122,Boys,White,Any other white background,FSM all other,2747,14744,50.1,0.39,97.1,52.8
+299,202122,Boys,White,Any other white background,Total,2889,17404,48.4,0.31,96.4,49.8
+300,202122,Boys,White,Gypsy/Roma,FSM,232,360,15.3,-1.39,76.4,4.2
+301,202122,Boys,White,Gypsy/Roma,FSM all other,229,344,21.6,-1.01,80.5,10.5
+302,202122,Boys,White,Gypsy/Roma,Total,399,704,18.3,-1.22,78.4,7.2
+303,202122,Boys,White,Total,FSM,3630,40710,31.3,-0.99,88.4,20.9
+304,202122,Boys,White,Total,FSM all other,3716,176663,48.7,-0.16,97.1,51
+305,202122,Boys,White,Total,Total,3769,217373,45.5,-0.31,95.5,45.4
+306,202122,Boys,White,Traveller of Irish heritage,FSM,44,47,19.1,-1.7,72.3,4.3
+307,202122,Boys,White,Traveller of Irish heritage,FSM all other,34,37,30.8,-1.23,83.8,18.9
+308,202122,Boys,White,Traveller of Irish heritage,Total,77,84,24.3,-1.48,77.4,10.7
+309,202122,Boys,White,White British,FSM,3566,37495,30.9,-1.03,88.3,20.1
+310,202122,Boys,White,White British,FSM all other,3655,160841,48.6,-0.2,97.2,50.9
+311,202122,Boys,White,White British,Total,3729,198336,45.3,-0.36,95.5,45.1
+312,202122,Boys,White,White Irish,FSM,138,148,33.2,-0.99,83.1,28.4
+313,202122,Boys,White,White Irish,FSM all other,474,697,55.8,0.06,97.7,64.1
+314,202122,Boys,White,White Irish,Total,579,845,51.8,-0.12,95.1,57.9
+315,202122,Girls,Asian,Any other Asian background,FSM,628,1025,50.7,0.7,94.6,53.4
+316,202122,Girls,Asian,Any other Asian background,FSM all other,1389,4249,62.3,0.94,98.6,75.3
+317,202122,Girls,Asian,Any other Asian background,Total,1574,5274,60,0.89,97.8,71
+318,202122,Girls,Asian,Bangladeshi,FSM,460,1704,51.8,0.46,97.4,53.5
+319,202122,Girls,Asian,Bangladeshi,FSM all other,847,3594,58.9,0.82,98.8,68.3
+320,202122,Girls,Asian,Bangladeshi,Total,971,5298,56.6,0.71,98.3,63.5
+321,202122,Girls,Asian,Indian,FSM,417,796,53,0.61,98,55.8
+322,202122,Girls,Asian,Indian,FSM all other,1443,8014,64.7,1.02,99,77.6
+323,202122,Girls,Asian,Indian,Total,1511,8810,63.6,0.98,98.9,75.6
+324,202122,Girls,Asian,Pakistani,FSM,798,3344,46.9,0.25,96.7,43.1
+325,202122,Girls,Asian,Pakistani,FSM all other,1247,9676,53.7,0.61,98.2,57.8
+326,202122,Girls,Asian,Pakistani,Total,1384,13020,51.9,0.51,97.8,54
+327,202122,Girls,Asian,Total,FSM,1370,6869,49.4,0.41,96.7,48.7
+328,202122,Girls,Asian,Total,FSM all other,2286,25533,59.3,0.82,98.6,68.4
+329,202122,Girls,Asian,Total,Total,2425,32402,57.2,0.73,98.2,64.2
+330,202122,Girls,Black,Any other black background,FSM,449,706,46,0.05,96.5,40.7
+331,202122,Girls,Black,Any other black background,FSM all other,786,1473,54,0.59,98.2,57.5
+332,202122,Girls,Black,Any other black background,Total,981,2179,51.4,0.41,97.6,52
+333,202122,Girls,Black,Black African,FSM,1090,3751,49.9,0.43,97.1,49.5
+334,202122,Girls,Black,Black African,FSM all other,1681,8537,56.5,0.66,98.7,63.9
+335,202122,Girls,Black,Black African,Total,1857,12288,54.5,0.59,98.2,59.5
+336,202122,Girls,Black,Caribbean,FSM,562,1260,40.4,-0.38,95.6,31.3
+337,202122,Girls,Black,Caribbean,FSM all other,845,2263,48.4,0.08,98.4,44.8
+338,202122,Girls,Black,Caribbean,Total,1015,3523,45.6,-0.09,97.4,40
+339,202122,Girls,Black,Total,FSM,1306,5717,47.3,0.19,96.7,44.4
+340,202122,Girls,Black,Total,FSM all other,1933,12273,54.7,0.54,98.6,59.6
+341,202122,Girls,Black,Total,Total,2123,17990,52.4,0.43,98,54.8
+342,202122,Girls,Chinese,Chinese,FSM,87,90,59.1,0.97,95.6,71.1
+343,202122,Girls,Chinese,Chinese,FSM all other,711,1106,69.7,1.19,98.5,85.4
+344,202122,Girls,Chinese,Chinese,Total,755,1196,68.9,1.17,98.2,84.4
+345,202122,Girls,Chinese,Total,FSM,87,90,59.1,0.97,95.6,71.1
+346,202122,Girls,Chinese,Total,FSM all other,711,1106,69.7,1.19,98.5,85.4
+347,202122,Girls,Chinese,Total,Total,755,1196,68.9,1.17,98.2,84.4
+348,202122,Girls,Mixed,Any other mixed background,FSM,981,1535,44.3,-0.2,96.1,37.8
+349,202122,Girls,Mixed,Any other mixed background,FSM all other,1836,4498,57.2,0.43,98.3,61.9
+350,202122,Girls,Mixed,Any other mixed background,Total,2115,6033,53.9,0.27,97.8,55.8
+351,202122,Girls,Mixed,Total,FSM,1958,4772,41.8,-0.37,95.1,33.4
+352,202122,Girls,Mixed,Total,FSM all other,2696,11981,56.2,0.33,98.2,60.1
+353,202122,Girls,Mixed,Total,Total,2924,16753,52.1,0.13,97.3,52.5
+354,202122,Girls,Mixed,White and Asian,FSM,607,798,44.4,-0.12,95.6,38.1
+355,202122,Girls,Mixed,White and Asian,FSM all other,1597,3088,60.9,0.5,98.3,69.9
+356,202122,Girls,Mixed,White and Asian,Total,1858,3886,57.5,0.37,97.8,63.4
+357,202122,Girls,Mixed,White and Black African,FSM,574,701,44.5,-0.14,95.7,37.8
+358,202122,Girls,Mixed,White and Black African,FSM all other,1069,1589,55.1,0.39,98.1,56.5
+359,202122,Girls,Mixed,White and Black African,Total,1378,2290,51.8,0.23,97.4,50.7
+360,202122,Girls,Mixed,White and Black Caribbean,FSM,1019,1738,37.3,-0.71,93.8,25.6
+361,202122,Girls,Mixed,White and Black Caribbean,FSM all other,1457,2806,49.9,-0.01,97.8,48.4
+362,202122,Girls,Mixed,White and Black Caribbean,Total,1822,4544,45.1,-0.28,96.3,39.7
+363,202122,Girls,Other,Any other ethnic group,FSM,808,1980,47.1,0.55,95.9,45.2
+364,202122,Girls,Other,Any other ethnic group,FSM all other,1314,3636,56,0.81,97.6,61.9
+365,202122,Girls,Other,Any other ethnic group,Total,1550,5616,52.9,0.72,97,56
+366,202122,Girls,Other,Total,FSM,808,1980,47.1,0.55,95.9,45.2
+367,202122,Girls,Other,Total,FSM all other,1314,3636,56,0.81,97.6,61.9
+368,202122,Girls,Other,Total,Total,1550,5616,52.9,0.72,97,56
+369,202122,Girls,Total,Total,FSM,3626,59581,39.5,-0.41,93.7,30.6
+370,202122,Girls,Total,Total,FSM all other,3662,227562,54.5,0.3,98.1,58.4
+371,202122,Girls,Total,Total,Total,3759,287143,51.4,0.15,97.2,52.7
+372,202122,Girls,Unclassified,Total,FSM,725,1188,39.9,-0.34,93.4,31.3
+373,202122,Girls,Unclassified,Total,FSM all other,1425,4101,46.6,-0.2,92.9,47.9
+374,202122,Girls,Unclassified,Total,Total,1673,5289,45.1,-0.23,93,44.2
+375,202122,Girls,Unclassified,Unclassified,FSM,725,1188,39.9,-0.34,93.4,31.3
+376,202122,Girls,Unclassified,Unclassified,FSM all other,1425,4101,46.6,-0.2,92.9,47.9
+377,202122,Girls,Unclassified,Unclassified,Total,1673,5289,45.1,-0.23,93,44.2
+378,202122,Girls,White,Any other white background,FSM,1229,2436,44,0.23,95.5,37.4
+379,202122,Girls,White,Any other white background,FSM all other,2657,14146,54.8,0.76,98,57.5
+380,202122,Girls,White,Any other white background,Total,2783,16582,53.2,0.68,97.7,54.6
+381,202122,Girls,White,Gypsy/Roma,FSM,218,390,20.4,-1.01,83.6,7.2
+382,202122,Girls,White,Gypsy/Roma,FSM all other,235,338,27.3,-0.5,88.2,12.7
+383,202122,Girls,White,Gypsy/Roma,Total,388,728,23.6,-0.79,85.7,9.8
+384,202122,Girls,White,Total,FSM,3487,38965,35.9,-0.68,92.4,24.2
+385,202122,Girls,White,Total,FSM all other,3568,168932,53.7,0.21,98.1,56.7
+386,202122,Girls,White,Total,Total,3695,207897,50.3,0.04,97,50.6
+387,202122,Girls,White,Traveller of Irish heritage,FSM,51,55,25.8,-1.19,83.6,10.9
+388,202122,Girls,White,Traveller of Irish heritage,FSM all other,47,48,41.7,-0.12,100,25
+389,202122,Girls,White,Traveller of Irish heritage,Total,95,103,33.2,-0.68,91.3,17.5
+390,202122,Girls,White,White British,FSM,3401,35952,35.5,-0.73,92.3,23.5
+391,202122,Girls,White,White British,FSM all other,3497,153766,53.6,0.17,98.1,56.7
+392,202122,Girls,White,White British,Total,3650,189718,50.2,0,97,50.4
+393,202122,Girls,White,White Irish,FSM,125,132,42,-0.38,92.4,36.4
+394,202122,Girls,White,White Irish,FSM all other,435,634,61.1,0.46,98.6,69.2
+395,202122,Girls,White,White Irish,Total,526,766,57.8,0.32,97.5,63.6
+396,202122,Total,Asian,Any other Asian background,FSM,1093,2242,47.9,0.49,93.6,49.8
+397,202122,Total,Asian,Any other Asian background,FSM all other,2108,9036,59.2,0.75,97.4,70.9
+398,202122,Total,Asian,Any other Asian background,Total,2316,11278,57,0.7,96.7,66.7
+399,202122,Total,Asian,Bangladeshi,FSM,757,3407,49.4,0.3,95.9,52.7
+400,202122,Total,Asian,Bangladeshi,FSM all other,1308,7283,56.7,0.66,98.2,66.6
+401,202122,Total,Asian,Bangladeshi,Total,1484,10690,54.4,0.55,97.5,62.1
+402,202122,Total,Asian,Indian,FSM,676,1635,50.5,0.42,97.1,53.4
+403,202122,Total,Asian,Indian,FSM all other,1996,16586,62.4,0.87,98.5,74.9
+404,202122,Total,Asian,Indian,Total,2082,18221,61.3,0.83,98.4,73
+405,202122,Total,Asian,Pakistani,FSM,1185,6824,43.8,0.01,95.9,40.6
+406,202122,Total,Asian,Pakistani,FSM all other,1740,19815,50.9,0.38,97.7,54.8
+407,202122,Total,Asian,Pakistani,Total,1902,26639,49.1,0.28,97.2,51.2
+408,202122,Total,Asian,Total,FSM,1960,14108,46.6,0.2,95.7,46.5
+409,202122,Total,Asian,Total,FSM all other,2899,52720,56.8,0.63,98,65.5
+410,202122,Total,Asian,Total,Total,3040,66828,54.6,0.54,97.5,61.5
+411,202122,Total,Black,Any other black background,FSM,794,1498,42.5,-0.14,94.3,36.2
+412,202122,Total,Black,Any other black background,FSM all other,1303,3010,49.1,0.23,96.9,49.8
+413,202122,Total,Black,Any other black background,Total,1573,4508,46.9,0.11,96.1,45.3
+414,202122,Total,Black,Black African,FSM,1542,7583,46.3,0.19,95.2,45.1
+415,202122,Total,Black,Black African,FSM all other,2228,16916,53,0.42,97.8,58.7
+416,202122,Total,Black,Black African,Total,2446,24499,50.9,0.35,97,54.5
+417,202122,Total,Black,Caribbean,FSM,875,2569,36.5,-0.6,93.3,26.1
+418,202122,Total,Black,Caribbean,FSM all other,1272,4494,44.7,-0.17,97.4,39.4
+419,202122,Total,Black,Caribbean,Total,1504,7063,41.7,-0.33,95.9,34.6
+420,202122,Total,Black,Total,FSM,1844,11650,43.7,-0.04,94.7,39.8
+421,202122,Total,Black,Total,FSM all other,2562,24420,51,0.28,97.6,54
+422,202122,Total,Black,Total,Total,2778,36070,48.6,0.18,96.7,49.4
+423,202122,Total,Chinese,Chinese,FSM,186,205,58.4,0.71,94.6,69.8
+424,202122,Total,Chinese,Chinese,FSM all other,1203,2230,66.8,1.02,97.8,80.9
+425,202122,Total,Chinese,Chinese,Total,1277,2435,66.1,0.99,97.5,80
+426,202122,Total,Chinese,Total,FSM,186,205,58.4,0.71,94.6,69.8
+427,202122,Total,Chinese,Total,FSM all other,1203,2230,66.8,1.02,97.8,80.9
+428,202122,Total,Chinese,Total,Total,1277,2435,66.1,0.99,97.5,80
+429,202122,Total,Mixed,Any other mixed background,FSM,1596,3174,41,-0.37,93.7,34.7
+430,202122,Total,Mixed,Any other mixed background,FSM all other,2634,9209,54.7,0.25,97.7,59.3
+431,202122,Total,Mixed,Any other mixed background,Total,2934,12383,51.2,0.09,96.7,53
+432,202122,Total,Mixed,Total,FSM,2743,9636,38.9,-0.54,92.9,30.9
+433,202122,Total,Mixed,Total,FSM all other,3316,24432,53.5,0.16,97.6,57.3
+434,202122,Total,Mixed,Total,Total,3543,34068,49.4,-0.04,96.3,49.9
+435,202122,Total,Mixed,White and Asian,FSM,1087,1680,41.4,-0.38,93.9,35.7
+436,202122,Total,Mixed,White and Asian,FSM all other,2389,6481,58.2,0.37,97.9,67.3
+437,202122,Total,Mixed,White and Asian,Total,2664,8161,54.8,0.21,97,60.8
+438,202122,Total,Mixed,White and Black African,FSM,1023,1441,41.4,-0.32,94.1,35.3
+439,202122,Total,Mixed,White and Black African,FSM all other,1726,3188,52.4,0.17,97.8,54.3
+440,202122,Total,Mixed,White and Black African,Total,2115,4629,49,0.01,96.7,48.4
+441,202122,Total,Mixed,White and Black Caribbean,FSM,1584,3341,34.6,-0.84,91.2,23
+442,202122,Total,Mixed,White and Black Caribbean,FSM all other,2107,5554,46.6,-0.23,97.1,44.1
+443,202122,Total,Mixed,White and Black Caribbean,Total,2521,8895,42.1,-0.46,94.9,36.2
+444,202122,Total,Other,Any other ethnic group,FSM,1286,4186,43.6,0.31,93.8,41
+445,202122,Total,Other,Any other ethnic group,FSM all other,2001,7790,52.8,0.65,95.9,58
+446,202122,Total,Other,Any other ethnic group,Total,2307,11976,49.6,0.54,95.2,52.1
+447,202122,Total,Other,Total,FSM,1286,4186,43.6,0.31,93.8,41
+448,202122,Total,Other,Total,FSM all other,2001,7790,52.8,0.65,95.9,58
+449,202122,Total,Other,Total,Total,2307,11976,49.6,0.54,95.2,52.1
+450,202122,Total,Total,Total,FSM,3979,121847,36.9,-0.59,91.8,28.4
+451,202122,Total,Total,Total,FSM all other,4003,465813,51.9,0.11,97.5,55.4
+452,202122,Total,Total,Total,Total,4015,587660,48.8,-0.03,96.3,49.8
+453,202122,Total,Unclassified,Total,FSM,1148,2387,37.1,-0.54,91.7,28.7
+454,202122,Total,Unclassified,Total,FSM all other,2061,8626,44.3,-0.35,91.9,45.8
+455,202122,Total,Unclassified,Total,Total,2304,11013,42.7,-0.39,91.9,42.1
+456,202122,Total,Unclassified,Unclassified,FSM,1148,2387,37.1,-0.54,91.7,28.7
+457,202122,Total,Unclassified,Unclassified,FSM all other,2061,8626,44.3,-0.35,91.9,45.8
+458,202122,Total,Unclassified,Unclassified,Total,2304,11013,42.7,-0.39,91.9,42.1
+459,202122,Total,White,Any other white background,FSM,1893,5096,41.4,0.03,94,35.2
+460,202122,Total,White,Any other white background,FSM all other,3210,28890,52.4,0.57,97.6,55.1
+461,202122,Total,White,Any other white background,Total,3331,33986,50.8,0.49,97,52.1
+462,202122,Total,White,Gypsy/Roma,FSM,389,750,17.9,-1.19,80.1,5.7
+463,202122,Total,White,Gypsy/Roma,FSM all other,396,682,24.4,-0.75,84.3,11.6
+464,202122,Total,White,Gypsy/Roma,Total,651,1432,21,-1,82.1,8.5
+465,202122,Total,White,Total,FSM,3886,79675,33.5,-0.83,90.4,22.5
+466,202122,Total,White,Total,FSM all other,3959,345595,51.2,0.02,97.6,53.8
+467,202122,Total,White,Total,Total,3985,425270,47.9,-0.14,96.2,47.9
+468,202122,Total,White,Traveller of Irish heritage,FSM,91,102,22.7,-1.41,78.4,7.8
+469,202122,Total,White,Traveller of Irish heritage,FSM all other,77,85,37,-0.59,92.9,22.4
+470,202122,Total,White,Traveller of Irish heritage,Total,164,187,29.2,-1.03,85,14.4
+471,202122,Total,White,White British,FSM,3830,73447,33.2,-0.88,90.3,21.8
+472,202122,Total,White,White British,FSM all other,3918,314607,51.1,-0.02,97.6,53.7
+473,202122,Total,White,White British,Total,3965,388054,47.7,-0.18,96.2,47.7
+474,202122,Total,White,White Irish,FSM,253,280,37.4,-0.7,87.5,32.1
+475,202122,Total,White,White Irish,FSM all other,790,1331,58.3,0.25,98.1,66.6
+476,202122,Total,White,White Irish,Total,959,1611,54.7,0.09,96.3,60.6
+477,202021,Boys,Chinese,Chinese,FSM,64,67,63.3,:,95.5,76.1
+478,202021,Boys,Chinese,Chinese,FSM all other,628,958,67.7,:,98.6,81.6
+479,202021,Boys,Chinese,Chinese,Total,669,1025,67.4,:,98.4,81.3
+480,202021,Boys,Chinese,Total,FSM,64,67,63.3,:,95.5,76.1
+481,202021,Boys,Chinese,Total,FSM all other,628,958,67.7,:,98.6,81.6
+482,202021,Boys,Chinese,Total,Total,669,1025,67.4,:,98.4,81.3
+483,202021,Boys,White,Traveller of Irish heritage,FSM,54,55,19.8,:,70.9,10.9
+484,202021,Boys,White,Traveller of Irish heritage,FSM all other,41,44,41,:,95.5,36.4
+485,202021,Boys,White,Traveller of Irish heritage,Total,94,99,29.2,:,81.8,22.2
+486,202021,Boys,White,White British,FSM,3530,33816,33.1,:,89.8,21.6
+487,202021,Boys,White,White British,FSM all other,3623,163467,50.3,:,97.6,52.5
+488,202021,Boys,White,White British,Total,3708,197283,47.4,:,96.3,47.2
+489,202021,Boys,White,White Irish,FSM,128,136,35.5,:,89.7,24.3
+490,202021,Boys,White,White Irish,FSM all other,483,737,56.1,:,98.1,64.7
+491,202021,Boys,White,White Irish,Total,586,873,52.9,:,96.8,58.4
+492,202021,Girls,Asian,Any other Asian background,FSM,542,843,52.6,:,97,52.1
+493,202021,Girls,Asian,Any other Asian background,FSM all other,1357,4245,63.8,:,98.8,75.8
+494,202021,Girls,Asian,Any other Asian background,Total,1519,5088,62,:,98.5,71.8
+495,202021,Girls,Asian,Bangladeshi,FSM,429,1581,54,:,98,54.3
+496,202021,Girls,Asian,Bangladeshi,FSM all other,812,3518,60.2,:,99.1,67.1
+497,202021,Girls,Asian,Bangladeshi,Total,914,5099,58.3,:,98.8,63.1
+498,202021,Girls,Asian,Indian,FSM,368,692,56.1,:,97.7,59.4
+499,202021,Girls,Asian,Indian,FSM all other,1381,7498,65.8,:,99.2,78.3
+500,202021,Girls,Asian,Indian,Total,1443,8190,65,:,99.1,76.7
+501,202021,Girls,Asian,Pakistani,FSM,736,3094,47.8,:,96.9,42
+502,202021,Girls,Asian,Pakistani,FSM all other,1209,9411,55.2,:,98.3,57.9
+503,202021,Girls,Asian,Pakistani,Total,1328,12505,53.4,:,97.9,54
+504,202021,Girls,Asian,Total,FSM,1217,6210,51,:,97.3,48.5
+505,202021,Girls,Asian,Total,FSM all other,2258,24672,60.6,:,98.8,68.5
+506,202021,Girls,Asian,Total,Total,2375,30882,58.7,:,98.5,64.4
+507,202021,Girls,Total,Total,FSM,3567,52948,42.1,:,95.4,33.1
+508,202021,Girls,Total,Total,FSM all other,3627,229266,56.6,:,98.5,61.1
+509,202021,Boys,Asian,Total,Total,2487,32822,53,:,97.2,57.1
+510,202021,Boys,Black,Any other black background,FSM,474,693,38.7,:,91.8,27
+511,202021,Boys,Black,Any other black background,FSM all other,857,1624,47.4,:,96.6,46.4
+512,202021,Boys,Black,Any other black background,Total,1046,2317,44.8,:,95.1,40.6
+513,202021,Boys,Black,Black African,FSM,1050,3247,43.8,:,94,39.7
+514,202021,Boys,Black,Black African,FSM all other,1649,8305,50.3,:,97.2,51.5
+515,202021,Boys,Black,Black African,Total,1835,11552,48.5,:,96.3,48.2
+516,202021,Boys,Black,Caribbean,FSM,569,1190,34.9,:,91.6,22.3
+517,202021,Boys,Black,Caribbean,FSM all other,881,2414,42.9,:,96.7,35.1
+518,202021,Boys,Black,Caribbean,Total,1063,3604,40.2,:,95,30.9
+519,202021,Boys,Black,Total,FSM,1323,5130,41.1,:,93.2,34
+520,202021,Boys,Black,Total,FSM all other,1962,12343,48.5,:,97.1,47.6
+521,202021,Boys,Black,Total,Total,2179,17473,46.3,:,95.9,43.6
+522,202021,Boys,Total,Total,FSM all other,3740,238759,50.8,:,97.5,53.1
+523,202021,Boys,Unclassified,Total,Total,1602,5140,43.3,:,93.2,40.9
+524,202021,Boys,Unclassified,Unclassified,FSM,642,1019,36.3,:,92.5,25.9
+525,202021,Boys,Unclassified,Unclassified,FSM all other,1393,4121,45,:,93.3,44.6
+526,202021,Boys,Unclassified,Unclassified,Total,1602,5140,43.3,:,93.2,40.9
+527,202021,Boys,White,Any other white background,FSM,1097,2069,40.8,:,93.3,33.7
+528,202021,Boys,White,Any other white background,FSM all other,2683,14330,50.6,:,97.2,50.7
+529,202021,Boys,White,Any other white background,Total,2791,16399,49.3,:,96.7,48.6
+530,202021,Boys,White,Gypsy/Roma,FSM,187,299,17.7,:,84.9,5.4
+531,202021,Boys,White,Gypsy/Roma,FSM all other,262,421,23.3,:,86.7,11.6
+532,202021,Boys,White,Gypsy/Roma,Total,392,720,21,:,86,9
+533,202021,Boys,White,Total,FSM,3587,36375,33.4,:,90,22.2
+534,202021,Boys,White,Total,FSM all other,3681,178999,50.3,:,97.6,52.3
+535,202021,Boys,White,Total,Total,3740,215374,47.4,:,96.3,47.2
+536,202021,Girls,Mixed,White and Asian,FSM,553,703,46,:,96.9,40.4
+537,202021,Girls,Mixed,White and Asian,FSM all other,1543,2918,62.4,:,98.8,71.8
+538,202021,Girls,Mixed,White and Asian,Total,1765,3621,59.2,:,98.4,65.7
+539,202021,Girls,Mixed,White and Black African,FSM,446,541,45.4,:,95.4,37.5
+540,202021,Girls,Mixed,White and Black African,FSM all other,980,1469,56.8,:,99.1,58.9
+541,202021,Girls,Mixed,White and Black African,Total,1197,2010,53.7,:,98.1,53.1
+542,202021,Girls,Mixed,White and Black Caribbean,FSM,921,1416,40.3,:,95.8,27.8
+543,202021,Girls,Mixed,White and Black Caribbean,FSM all other,1469,2845,52,:,98.1,50.4
+544,202021,Girls,Mixed,White and Black Caribbean,Total,1799,4261,48.1,:,97.4,42.9
+545,202021,Girls,Other,Any other ethnic group,FSM,760,1735,48.9,:,96.2,45.8
+546,202021,Girls,Other,Any other ethnic group,FSM all other,1308,3712,57.5,:,97.8,62.3
+547,202021,Girls,Other,Any other ethnic group,Total,1530,5447,54.8,:,97.3,57
+548,202021,Girls,Other,Total,FSM,760,1735,48.9,:,96.2,45.8
+549,202021,Girls,Other,Total,FSM all other,1308,3712,57.5,:,97.8,62.3
+550,202021,Girls,Other,Total,Total,1530,5447,54.8,:,97.3,57
+551,202021,Boys,Asian,Any other Asian background,FSM,631,988,45.3,:,93.5,44.2
+552,202021,Boys,Asian,Any other Asian background,FSM all other,1479,4729,57.8,:,97.1,66.7
+553,202021,Boys,Asian,Any other Asian background,Total,1660,5717,55.6,:,96.5,62.8
+554,202021,Boys,Asian,Bangladeshi,FSM,485,1560,49,:,95.8,49.6
+555,202021,Boys,Asian,Bangladeshi,FSM all other,894,3588,54.7,:,97.4,61.8
+556,202021,Boys,Asian,Bangladeshi,Total,1026,5148,53,:,96.9,58.1
+557,202021,Boys,Asian,Indian,FSM,393,713,47.3,:,94.5,46.3
+558,202021,Boys,Asian,Indian,FSM all other,1447,7998,60.3,:,98.1,70.3
+559,202021,Boys,Asian,Indian,Total,1515,8711,59.2,:,97.8,68.4
+560,202021,Boys,Asian,Pakistani,FSM,817,3193,42.8,:,95.5,36.9
+561,202021,Boys,Asian,Pakistani,FSM all other,1292,10053,49.5,:,97.6,49.9
+562,202021,Boys,Asian,Pakistani,Total,1414,13246,47.9,:,97.1,46.8
+563,202021,Boys,Asian,Total,FSM,1372,6454,45.1,:,95.2,42.1
+564,202021,Boys,Asian,Total,FSM all other,2354,26368,55,:,97.6,60.7
+565,202021,Boys,Other,Any other ethnic group,FSM,798,1820,43.2,:,94.5,38.7
+566,202021,Boys,Other,Any other ethnic group,FSM all other,1386,3998,51.4,:,95.9,54.3
+567,202021,Boys,Other,Any other ethnic group,Total,1624,5818,48.8,:,95.5,49.4
+568,202021,Boys,Other,Total,FSM,798,1820,43.2,:,94.5,38.7
+569,202021,Boys,Other,Total,FSM all other,1386,3998,51.4,:,95.9,54.3
+570,202021,Boys,Other,Total,Total,1624,5818,48.8,:,95.5,49.4
+571,202021,Boys,Total,Total,FSM,3706,54890,36.2,:,91.3,26.8
+572,202021,Boys,Unclassified,Total,FSM,642,1019,36.3,:,92.5,25.9
+573,202021,Boys,Unclassified,Total,FSM all other,1393,4121,45,:,93.3,44.6
+574,202021,Girls,Chinese,Chinese,Total,710,1076,70.8,:,98.9,86.2
+575,202021,Girls,Chinese,Total,FSM,81,90,68.9,:,100,82.2
+576,202021,Girls,Chinese,Total,FSM all other,664,986,71,:,98.8,86.6
+577,202021,Girls,Chinese,Total,Total,710,1076,70.8,:,98.9,86.2
+578,202021,Girls,Mixed,Any other mixed background,FSM,938,1392,45.8,:,95.9,36.9
+579,202021,Girls,Mixed,Any other mixed background,FSM all other,1849,4491,59,:,98.4,63.7
+580,202021,Girls,Mixed,Any other mixed background,Total,2124,5883,55.9,:,97.8,57.4
+581,202021,Girls,Mixed,Total,FSM,1814,4052,43.9,:,96,34.4
+582,202021,Girls,Mixed,Total,FSM all other,2677,11723,57.9,:,98.5,61.9
+583,202021,Girls,Mixed,Total,Total,2902,15775,54.3,:,97.9,54.8
+584,202021,Girls,Total,Total,Total,3716,282214,53.9,:,98,55.8
+585,202021,Boys,Mixed,Any other mixed background,FSM,929,1376,40.6,:,92.9,33.4
+586,202021,Boys,Mixed,Any other mixed background,FSM all other,1865,4493,53,:,97.5,56.4
+587,202021,Boys,Mixed,Any other mixed background,Total,2163,5869,50.1,:,96.4,51
+588,202021,Boys,Mixed,Total,FSM,1871,4025,37.9,:,93,28.8
+589,202021,Boys,Mixed,Total,FSM all other,2758,11972,52,:,97.5,54.9
+590,202021,Boys,Mixed,Total,Total,3033,15997,48.4,:,96.4,48.3
+591,202021,Boys,Mixed,White and Asian,FSM,627,771,39.4,:,94.2,31.9
+592,202021,Boys,Mixed,White and Asian,FSM all other,1638,3139,56.9,:,98,65.3
+593,202021,Boys,Mixed,White and Asian,Total,1886,3910,53.4,:,97.2,58.7
+594,202021,Boys,Mixed,White and Black African,FSM,470,548,39.6,:,93.4,32.8
+595,202021,Boys,Mixed,White and Black African,FSM all other,1059,1535,50.4,:,97.5,52.1
+596,202021,Boys,Mixed,White and Black African,Total,1300,2083,47.6,:,96.4,47
+597,202021,Boys,Mixed,White and Black Caribbean,FSM,904,1330,33.5,:,92.3,20.7
+598,202021,Boys,Mixed,White and Black Caribbean,FSM all other,1483,2805,45.6,:,97,42.2
+599,202021,Boys,Mixed,White and Black Caribbean,Total,1810,4135,41.7,:,95.5,35.3
+600,202021,Boys,Total,Total,Total,3774,293649,48.1,:,96.3,48.2
+601,202021,Girls,Black,Any other black background,FSM,440,651,46.9,:,96.8,40.1
+602,202021,Girls,Black,Any other black background,FSM all other,801,1561,54.1,:,98.7,53.9
+603,202021,Girls,Black,Any other black background,Total,978,2212,52,:,98.1,49.8
+604,202021,Girls,Black,Black African,FSM,1025,3231,51.1,:,97.2,49.2
+605,202021,Girls,Black,Black African,FSM all other,1559,8457,57.8,:,98.9,62.6
+606,202021,Girls,Black,Black African,Total,1750,11688,55.9,:,98.4,58.9
+607,202021,Girls,Black,Caribbean,FSM,552,1185,41.7,:,95.9,29.5
+608,202021,Girls,Black,Caribbean,FSM all other,820,2353,50.9,:,98.9,46.7
+609,202021,Girls,Black,Caribbean,Total,970,3538,47.8,:,97.9,41
+610,202021,Girls,Black,Total,FSM,1248,5067,48.4,:,96.8,43.4
+611,202021,Girls,Black,Total,FSM all other,1840,12371,56,:,98.9,58.5
+612,202021,Girls,Black,Total,Total,2032,17438,53.8,:,98.3,54.1
+613,202021,Girls,Chinese,Chinese,FSM,81,90,68.9,:,100,82.2
+614,202021,Girls,Chinese,Chinese,FSM all other,664,986,71,:,98.8,86.6
+615,202021,Girls,Unclassified,Total,FSM,623,1004,42.1,:,95.2,32.3
+616,202021,Girls,Unclassified,Total,FSM all other,1356,3971,48.3,:,94.5,48.6
+617,202021,Girls,Unclassified,Total,Total,1567,4975,47,:,94.7,45.3
+618,202021,Total,Mixed,Any other mixed background,FSM,1500,2768,43.2,:,94.4,35.2
+619,202021,Total,Mixed,Any other mixed background,FSM all other,2580,8984,56,:,97.9,60.1
+620,202021,Total,Mixed,Any other mixed background,Total,2855,11752,53,:,97.1,54.2
+621,202021,Total,Mixed,Total,FSM,2554,8077,40.9,:,94.5,31.6
+622,202021,Total,Mixed,Total,FSM all other,3267,23695,54.9,:,98,58.3
+623,202021,Total,Mixed,Total,Total,3479,31772,51.3,:,97.1,51.5
+624,202021,Total,Total,Total,Total,3989,575863,50.9,:,97.1,51.9
+625,202021,Total,White,White Irish,Total,967,1721,55.7,:,97.2,60.9
+626,202021,Total,Black,Total,FSM all other,2488,24714,52.2,:,98,53.1
+627,202021,Total,Black,Total,Total,2702,34911,50,:,97.1,48.9
+628,202021,Total,Chinese,Chinese,FSM,144,157,66.5,:,98.1,79.6
+629,202021,Total,Chinese,Chinese,FSM all other,1120,1944,69.4,:,98.7,84.2
+630,202021,Total,Chinese,Chinese,Total,1187,2101,69.2,:,98.7,83.8
+631,202021,Total,Chinese,Total,FSM,144,157,66.5,:,98.1,79.6
+632,202021,Total,Chinese,Total,FSM all other,1120,1944,69.4,:,98.7,84.2
+633,202021,Total,Chinese,Total,Total,1187,2101,69.2,:,98.7,83.8
+634,202021,Total,White,Any other white background,FSM all other,3166,28038,53.4,:,97.6,54.9
+635,202021,Total,White,Any other white background,Total,3258,32109,52.1,:,97.2,52.5
+636,202021,Total,White,Gypsy/Roma,FSM,315,615,19.6,:,86.8,5.7
+637,202021,Total,White,Gypsy/Roma,FSM all other,405,810,25.1,:,87.4,11.7
+638,202021,Total,White,Gypsy/Roma,Total,596,1425,22.7,:,87.2,9.1
+639,202021,Total,White,Total,FSM,3862,71165,36.1,:,92.3,25
+640,202021,Total,White,Total,FSM all other,3918,350830,53.1,:,98.1,56.2
+641,202021,Total,White,Total,Total,3959,421995,50.2,:,97.1,50.9
+642,202021,Total,White,Traveller of Irish heritage,FSM,91,97,23.8,:,76.3,15.5
+643,202021,Total,White,Traveller of Irish heritage,FSM all other,68,74,39.8,:,94.6,28.4
+644,202021,Total,White,Traveller of Irish heritage,Total,152,171,30.7,:,84.2,21.1
+645,202021,Total,White,White British,FSM,3813,66121,35.8,:,92.2,24.5
+646,202021,Total,White,White British,FSM all other,3878,320448,53.1,:,98.1,56.4
+647,202021,Total,White,White British,Total,3939,386569,50.2,:,97.1,50.9
+648,202021,Total,White,White Irish,FSM,235,261,37.4,:,89.3,26.8
+649,202021,Total,White,White Irish,FSM all other,802,1460,58.9,:,98.6,67
+650,202021,Girls,White,Traveller of Irish heritage,FSM,40,42,29,:,83.3,21.4
+651,202021,Girls,White,Traveller of Irish heritage,FSM all other,28,30,38.1,:,93.3,16.7
+652,202021,Girls,White,Traveller of Irish heritage,Total,67,72,32.8,:,87.5,19.4
+653,202021,Girls,White,White British,FSM,3358,32305,38.7,:,94.7,27.5
+654,202021,Girls,White,White British,FSM all other,3463,156981,56.1,:,98.7,60.4
+655,202021,Girls,White,White British,Total,3604,189286,53.1,:,98,54.8
+656,202021,Girls,White,White Irish,FSM,112,125,39.5,:,88.8,29.6
+657,202021,Girls,White,White Irish,FSM all other,459,723,61.8,:,99,69.3
+658,202021,Girls,White,White Irish,Total,548,848,58.5,:,97.5,63.4
+659,202021,Total,Asian,Pakistani,FSM,1089,6287,45.3,:,96.2,39.4
+660,202021,Total,Asian,Pakistani,FSM all other,1670,19464,52.2,:,97.9,53.8
+661,202021,Total,Asian,Pakistani,Total,1820,25751,50.5,:,97.5,50.3
+662,202021,Total,Asian,Total,FSM,1779,12664,48,:,96.2,45.2
+663,202021,Total,Asian,Total,FSM all other,2877,51040,57.7,:,98.2,64.5
+664,202021,Total,Asian,Total,Total,3000,63704,55.8,:,97.8,60.6
+665,202021,Total,Black,Any other black background,FSM,747,1344,42.7,:,94.2,33.3
+666,202021,Total,Black,Any other black background,FSM all other,1294,3185,50.7,:,97.6,50
+667,202021,Total,Black,Any other black background,Total,1511,4529,48.3,:,96.6,45.1
+668,202021,Total,Black,Black African,FSM,1453,6478,47.5,:,95.6,44.4
+669,202021,Total,Black,Black African,FSM all other,2167,16762,54.1,:,98.1,57.1
+670,202021,Total,Black,Black African,Total,2370,23240,52.2,:,97.4,53.6
+671,202021,Total,Black,Caribbean,FSM,836,2375,38.3,:,93.8,25.9
+672,202021,Total,Black,Caribbean,FSM all other,1258,4767,46.8,:,97.8,40.8
+673,202021,Total,Black,Caribbean,Total,1439,7142,44,:,96.5,35.9
+674,202021,Total,Black,Total,FSM,1753,10197,44.7,:,95,38.7
+675,202021,Total,Total,Total,FSM,3949,107838,39.1,:,93.3,29.9
+676,202021,Total,Total,Total,FSM all other,3975,468025,53.6,:,98,57
+677,202021,Total,Unclassified,Total,FSM,1021,2023,39.2,:,93.9,29.1
+678,202021,Total,Unclassified,Total,FSM all other,1977,8092,46.6,:,93.9,46.5
+679,202021,Total,Unclassified,Total,Total,2209,10115,45.1,:,93.9,43
+680,202021,Total,Unclassified,Unclassified,FSM,1021,2023,39.2,:,93.9,29.1
+681,202021,Total,Unclassified,Unclassified,FSM all other,1977,8092,46.6,:,93.9,46.5
+682,202021,Total,Unclassified,Unclassified,Total,2209,10115,45.1,:,93.9,43
+683,202021,Total,White,Any other white background,FSM,1639,4071,43.2,:,94.7,36.1
+684,202021,Girls,Unclassified,Unclassified,FSM,623,1004,42.1,:,95.2,32.3
+685,202021,Girls,Unclassified,Unclassified,FSM all other,1356,3971,48.3,:,94.5,48.6
+686,202021,Girls,Unclassified,Unclassified,Total,1567,4975,47,:,94.7,45.3
+687,202021,Girls,White,Any other white background,FSM,1050,2002,45.8,:,96.1,38.6
+688,202021,Girls,White,Any other white background,FSM all other,2604,13708,56.4,:,98,59.2
+689,202021,Girls,White,Any other white background,Total,2694,15710,55,:,97.7,56.5
+690,202021,Girls,White,Gypsy/Roma,FSM,176,316,21.5,:,88.6,6
+691,202021,Girls,White,Gypsy/Roma,FSM all other,227,389,27,:,88.2,11.8
+692,202021,Girls,White,Gypsy/Roma,Total,349,705,24.5,:,88.4,9.2
+693,202021,Girls,White,Total,FSM,3444,34790,39,:,94.7,27.9
+694,202021,Girls,White,Total,FSM all other,3529,171831,56,:,98.6,60.2
+695,202021,Girls,White,Total,Total,3644,206621,53.2,:,97.9,54.8
+696,202021,Total,Asian,Any other Asian background,FSM,957,1831,48.6,:,95.1,47.8
+697,202021,Total,Asian,Any other Asian background,FSM all other,2028,8974,60.7,:,97.9,71
+698,202021,Total,Asian,Any other Asian background,Total,2219,10805,58.6,:,97.5,67.1
+699,202021,Total,Asian,Bangladeshi,FSM,683,3141,51.5,:,96.9,52
+700,202021,Total,Asian,Bangladeshi,FSM all other,1281,7106,57.5,:,98.2,64.4
+701,202021,Total,Asian,Bangladeshi,Total,1425,10247,55.6,:,97.8,60.6
+702,202021,Total,Asian,Indian,FSM,616,1405,51.6,:,96.1,52.7
+703,202021,Total,Asian,Indian,FSM all other,1985,15496,63,:,98.6,74.2
+704,202021,Total,Asian,Indian,Total,2055,16901,62,:,98.4,72.4
+705,202021,Total,Mixed,White and Asian,FSM,1010,1474,42.5,:,95.5,36
+706,202021,Total,Mixed,White and Asian,FSM all other,2290,6057,59.6,:,98.4,68.4
+707,202021,Total,Mixed,White and Asian,Total,2541,7531,56.2,:,97.8,62.1
+708,202021,Total,Mixed,White and Black African,FSM,813,1089,42.5,:,94.4,35.2
+709,202021,Total,Mixed,White and Black African,FSM all other,1645,3004,53.5,:,98.3,55.4
+710,202021,Total,Mixed,White and Black African,Total,1935,4093,50.6,:,97.3,50
+711,202021,Total,Mixed,White and Black Caribbean,FSM,1418,2746,37,:,94.1,24.3
+712,202021,Total,Mixed,White and Black Caribbean,FSM all other,2102,5650,48.8,:,97.6,46.3
+713,202021,Total,Mixed,White and Black Caribbean,Total,2457,8396,45,:,96.4,39.1
+714,202021,Total,Other,Any other ethnic group,FSM,1189,3555,46,:,95.3,42.2
+715,202021,Total,Other,Any other ethnic group,FSM all other,1973,7710,54.3,:,96.8,58.1
+716,202021,Total,Other,Any other ethnic group,Total,2224,11265,51.7,:,96.4,53.1
+717,202021,Total,Other,Total,FSM,1189,3555,46,:,95.3,42.2
+718,202021,Total,Other,Total,FSM all other,1973,7710,54.3,:,96.8,58.1
+719,202021,Total,Other,Total,Total,2224,11265,51.7,:,96.4,53.1
+720,201920,Boys,Asian,Total,FSM all other,2345,25986,53.5,:,97.7,58.1
+721,201920,Boys,Mixed,Total,FSM,1648,3196,37.4,:,92.6,26.1
+722,201920,Total,Chinese,Total,FSM all other,1072,1819,68,:,98.9,80.2
+723,201920,Total,Other,Total,FSM all other,1962,7739,52.7,:,96.8,54.5
+724,201920,Total,White,Total,FSM,3842,59303,35.8,:,92.5,23.2
+725,201920,Total,Asian,Total,FSM all other,2860,50580,56,:,98.1,61.3
+726,201920,Total,Unclassified,Total,FSM,820,1411,37.9,:,93.5,26.5
+727,201920,Girls,Asian,Total,Total,2342,29894,57.1,:,98.3,61.6
+728,201920,Total,Asian,Total,FSM,1648,10443,47.1,:,96.1,43.4
+729,201920,Total,Black,Total,FSM all other,2407,24670,50.6,:,97.9,49.5
+730,201920,Boys,Other,Total,Total,1597,5445,47.2,:,94.9,45.5
+731,201920,Total,Other,Total,FSM,987,2783,44.8,:,93.9,39.4
+732,201920,Total,White,Total,FSM all other,3933,357201,52,:,98.1,53.4
+733,201920,Boys,Chinese,Total,Total,653,957,65.4,:,98.3,75.1
+734,201920,Boys,Mixed,Total,FSM all other,2699,11618,50.6,:,97.6,51.6
+735,201920,Girls,Unclassified,Total,FSM,469,658,39.8,:,95,28.9
+736,201920,Girls,White,Total,Total,3646,203693,52.6,:,98.1,53.2
+737,201920,Boys,Black,Total,FSM all other,1880,12277,47,:,97.1,43.5
+738,201920,Boys,White,Total,Total,3738,212811,47,:,96.5,45.1
+739,201920,Total,Asian,Total,Total,2957,61023,54.5,:,97.7,58.3
+740,201920,Total,Mixed,Total,FSM all other,3216,23160,53.7,:,98.1,55.8
+741,201920,Girls,Unclassified,Total,Total,1385,4574,43.4,:,91.1,41.1
+742,201920,Total,Unclassified,Total,Total,2053,9570,41.4,:,90,38.2
+743,201920,Boys,Chinese,Total,FSM all other,610,882,65.9,:,98.4,75.7
+744,201920,Girls,Mixed,Total,FSM,1538,3125,43.7,:,96.4,33.7
+745,201920,Total,Other,Total,Total,2168,10522,50.6,:,96,50.5
+746,201920,Boys,Black,Total,FSM,1176,4159,39.6,:,92.9,29.6
+747,201920,Boys,White,Total,FSM all other,3682,182541,49.3,:,97.6,49.2
+748,201920,Total,Mixed,Total,Total,3405,29481,50.8,:,97.3,50.2
+749,201920,Boys,Asian,Total,FSM,1185,5143,43.9,:,95,39.7
+750,201920,Boys,Unclassified,Total,Total,1485,4996,39.6,:,89,35.6
+751,201920,Total,White,Total,Total,3968,416504,49.7,:,97.3,49.1
+752,201920,Total,Black,Total,FSM,1602,8265,43.7,:,94.8,35.4
+753,201920,Girls,Black,Total,Total,1968,16499,52.6,:,98.2,51.9
+754,201920,Total,Black,Total,Total,2575,32935,48.9,:,97.1,46
+755,201920,Boys,Black,Total,Total,2056,16436,45.1,:,96,40
+756,201920,Girls,Chinese,Total,Total,649,1002,69.7,:,99.3,83.9
+757,201920,Boys,Asian,Total,Total,2444,31129,51.9,:,97.2,55
+758,201920,Boys,Mixed,Total,Total,2929,14814,47.7,:,96.5,46.1
+759,201920,Girls,Mixed,Total,Total,2819,14667,54,:,98.1,54.4
+760,201920,Girls,Other,Any other ethnic group,FSM all other,1280,3768,56.4,:,98,60.1
+761,201920,Boys,White,Traveller of Irish heritage,FSM,47,48,23.3,:,81.3,6.3
+762,201920,Girls,White,Gypsy/Roma,FSM all other,237,416,27,:,91.1,11.3
+763,201920,Boys,White,Gypsy/Roma,FSM,161,246,19,:,82.9,4.5
+764,201920,Girls,White,Traveller of Irish heritage,FSM,39,41,27.3,:,87.8,14.6
+765,201920,Boys,White,Any other white background,FSM all other,2654,13897,48.8,:,97.1,45.9
+766,201920,Boys,Unclassified,Unclassified,FSM,500,753,36.2,:,92.2,24.4
+767,201920,Girls,Chinese,Chinese,FSM,60,65,66.2,:,98.5,78.5
+768,201920,Girls,Black,Black African,FSM all other,1542,8157,55.8,:,98.8,59.3
+769,201920,Boys,Mixed,Any other mixed background,FSM,772,1124,39.8,:,93.9,31.3
+770,201920,Girls,Asian,Bangladeshi,FSM all other,881,3815,57.6,:,98.5,63
+771,201920,Boys,White,Gypsy/Roma,FSM all other,262,441,22.4,:,86.6,7.9
+772,201920,Boys,Asian,Indian,FSM,318,587,48.7,:,95.4,47.2
+773,201920,Boys,Mixed,White and Black Caribbean,FSM,771,1103,33.4,:,90.8,18.2
+774,201920,Total,Black,Caribbean,Total,1423,7378,44,:,96.5,34.8
+775,201920,Girls,Black,Total,FSM all other,1815,12393,54.2,:,98.7,55.5
+776,201920,Boys,Chinese,Total,FSM,71,75,59.8,:,97.3,68
+777,201920,Boys,White,Total,FSM,3557,30270,32.9,:,90.1,20.1
+778,201920,Girls,Unclassified,Total,FSM all other,1225,3916,44,:,90.4,43.1
+779,201920,Girls,Black,Total,FSM,1099,4106,47.8,:,96.7,41.3
+780,201920,Boys,Unclassified,Total,FSM all other,1318,4243,40.2,:,88.4,37.6
+781,201920,Girls,Asian,Total,FSM all other,2242,24594,58.6,:,98.5,64.8
+782,201920,Girls,Chinese,Total,FSM all other,619,937,70,:,99.4,84.3
+783,201920,Girls,Asian,Total,FSM,1161,5300,50.2,:,97.3,46.9
+784,201920,Girls,Other,Total,FSM all other,1280,3768,56.4,:,98,60.1
+785,201920,Girls,Chinese,Total,FSM,60,65,66.2,:,98.5,78.5
+786,201920,Boys,Other,Total,FSM all other,1404,3971,49.2,:,95.6,49.2
+787,201920,Girls,Mixed,Total,FSM all other,2630,11542,56.7,:,98.6,60
+788,201920,Boys,Other,Total,FSM,670,1474,41.7,:,92.9,35.8
+789,201920,Boys,Unclassified,Total,FSM,500,753,36.2,:,92.2,24.4
+790,201920,Girls,White,Total,FSM all other,3551,174660,54.8,:,98.6,57.7
+791,201920,Girls,Other,Total,FSM,623,1309,48.2,:,95,43.5
+792,201920,Total,Mixed,Total,FSM,2294,6321,40.5,:,94.4,29.8
+793,201920,Total,Chinese,Total,FSM,126,140,62.8,:,97.9,72.9
+794,201920,Total,Unclassified,Total,FSM all other,1852,8159,42,:,89.4,40.3
+795,201920,Girls,Other,Total,Total,1454,5077,54.3,:,97.2,55.8
+796,201920,Girls,White,Total,FSM,3375,29033,38.9,:,95,26.3
+797,201920,Total,Chinese,Total,Total,1121,1959,67.6,:,98.8,79.6
+798,201920,Boys,Total,Total,FSM all other,3736,241518,49.6,:,97.4,49.9
+799,201920,Girls,Total,Total,FSM all other,3646,231810,55.2,:,98.5,58.3
+800,201920,Total,Total,Total,FSM,3930,88666,38.6,:,93.4,27.8
+801,201920,Boys,Total,Total,FSM,3679,45070,35.5,:,91.2,24.3
+802,201920,Total,Total,Total,FSM all other,3971,473328,52.3,:,97.9,54
+803,201920,Girls,Total,Total,Total,3710,275406,53.1,:,98,54.1
+804,201920,Boys,Total,Total,Total,3769,286588,47.4,:,96.4,45.9
+805,201920,Total,Total,Total,Total,3987,561994,50.2,:,97.2,49.9
+806,201920,Girls,Total,Total,FSM,3516,43596,41.8,:,95.6,31.4
+807,201920,Girls,Asian,Any other Asian background,Total,1484,4849,60.5,:,98.2,70.4
+808,201920,Boys,Unclassified,Unclassified,Total,1485,4996,39.6,:,89,35.6
+809,201920,Total,Mixed,White and Black Caribbean,Total,2393,8028,44.8,:,96.6,37.6
+810,201920,Girls,Other,Any other ethnic group,Total,1454,5077,54.3,:,97.2,55.8
+811,201920,Boys,Asian,Pakistani,FSM all other,1305,9759,48.1,:,97.1,47.8
+812,201920,Boys,Black,Caribbean,FSM,527,1049,35.8,:,92.7,21.1
+813,201920,Boys,Mixed,White and Asian,FSM all other,1503,2852,55.2,:,98.1,61.5
+814,201920,Girls,Unclassified,Unclassified,FSM,469,658,39.8,:,95,28.9
+815,201920,Girls,Asian,Any other Asian background,FSM,489,689,50.3,:,95.4,49.9
+816,201920,Girls,Mixed,White and Asian,FSM,421,504,45.6,:,97,40.1
+817,201920,Girls,Asian,Pakistani,FSM all other,1189,9354,53.1,:,98.1,53
+818,201920,Girls,Mixed,White and Black Caribbean,FSM,761,1141,40.4,:,95.8,27.5
+819,201920,Girls,Mixed,White and Black African,FSM,367,421,47.4,:,97.9,39.4
+820,201920,Boys,Asian,Any other Asian background,FSM,480,742,42.8,:,91.5,36.4
+821,201920,Boys,Asian,Indian,FSM all other,1433,7721,58.9,:,98.5,68.1
+822,201920,Girls,Black,Any other black background,FSM,343,496,48.5,:,96.6,42.5
+823,201920,Girls,White,Any other white background,FSM all other,2596,13305,54.6,:,97.9,55.1
+824,201920,Boys,Asian,Bangladeshi,FSM all other,908,3850,53,:,97.5,57
+825,201920,Boys,Chinese,Chinese,FSM all other,610,882,65.9,:,98.4,75.7
+826,201920,Girls,White,Any other white background,FSM,909,1518,46.4,:,97.3,38.1
+827,201920,Girls,Chinese,Chinese,FSM all other,619,937,70,:,99.4,84.3
+828,201920,Girls,Mixed,Any other mixed background,FSM all other,1806,4367,57.3,:,98.2,61.5
+829,201920,Girls,White,White British,FSM all other,3477,160184,54.9,:,98.7,58
+830,201920,Boys,Black,Caribbean,FSM all other,893,2651,41.8,:,96.3,32.4
+831,201920,Boys,Asian,Bangladeshi,FSM,408,1293,46.9,:,95.7,46.6
+832,201920,Boys,White,White British,FSM all other,3631,167462,49.4,:,97.6,49.6
+833,201920,Girls,Black,Caribbean,FSM all other,849,2688,49.8,:,98.4,44.6
+834,201920,Boys,Chinese,Chinese,FSM,71,75,59.8,:,97.3,68
+835,201920,Boys,Mixed,White and Black African,FSM,362,411,39.2,:,93.4,29.7
+836,201920,Girls,Black,Any other black background,FSM all other,774,1548,53.7,:,98.6,53.9
+837,201920,Girls,Black,Black African,FSM,868,2620,49.7,:,97,45.6
+838,201920,Girls,Asian,Indian,FSM,310,556,55.3,:,99.5,57.2
+839,201920,Girls,White,Gypsy/Roma,FSM,172,251,23.1,:,86.1,6.4
+840,201920,Girls,Mixed,White and Black Caribbean,FSM all other,1464,2981,51,:,98.3,48.2
+841,201920,Boys,Mixed,Any other mixed background,FSM all other,1848,4543,51.8,:,97.5,54.4
+842,201920,Boys,Black,Black African,FSM,895,2533,41.9,:,93.8,34.5
+843,201920,Girls,Asian,Any other Asian background,FSM all other,1334,4160,62.2,:,98.7,73.8
+844,201920,Girls,White,White Irish,FSM all other,463,711,61.4,:,99.2,68.2
+845,201920,Boys,Black,Any other black background,FSM,403,577,36.9,:,89.3,23.7
+846,201920,Girls,Mixed,White and Asian,FSM all other,1442,2740,61.9,:,99,70.6
+847,201920,Girls,White,White Irish,FSM,93,100,41.4,:,93,32
+848,201920,Girls,White,Traveller of Irish heritage,FSM all other,44,44,43,:,100,31.8
+849,201920,Boys,Other,Any other ethnic group,FSM,670,1474,41.7,:,92.9,35.8
+850,201920,Girls,Asian,Indian,FSM all other,1359,7265,63.9,:,98.9,75.7
+851,201920,Boys,Unclassified,Unclassified,FSM all other,1318,4243,40.2,:,88.4,37.6
+852,201920,Girls,Asian,Bangladeshi,FSM,399,1414,52.8,:,97.1,52.1
+853,201920,Girls,Unclassified,Unclassified,FSM all other,1225,3916,44,:,90.4,43.1
+854,201920,Boys,Asian,Any other Asian background,FSM all other,1456,4656,56.4,:,97.5,63.9
+855,201920,Boys,White,White British,FSM,3481,28252,32.6,:,90,19.7
+856,201920,Boys,White,White Irish,FSM all other,469,714,55.1,:,98.7,61.8
+857,201920,Boys,Black,Any other black background,FSM all other,805,1637,44.8,:,96.5,36.2
+858,201920,Girls,Black,Caribbean,FSM,472,990,42.4,:,95.9,29.2
+859,201920,Girls,Mixed,Any other mixed background,FSM,738,1059,44.8,:,96,34.9
+860,201920,Boys,White,White Irish,FSM,115,123,35.8,:,91.1,27.6
+861,201920,Boys,Asian,Pakistani,FSM,706,2521,41.6,:,95.5,35.3
+862,201920,Total,White,Traveller of Irish heritage,FSM,85,89,25.1,:,84.3,10.1
+863,201920,Girls,White,White British,FSM,3307,27123,38.6,:,95,25.9
+864,201920,Total,White,White Irish,FSM,197,223,38.3,:,91.9,29.6
+865,201920,Total,Black,Any other black background,FSM,633,1073,42.2,:,92.6,32.4
+866,201920,Girls,Mixed,White and Black African,FSM all other,969,1454,57.1,:,99.7,59.6
+867,201920,Total,Asian,Indian,FSM all other,1948,14986,61.4,:,98.7,71.8
+868,201920,Total,White,Gypsy/Roma,FSM,281,497,21.1,:,84.5,5.4
+869,201920,Total,Mixed,White and Black African,FSM,656,832,43.4,:,95.7,34.6
+870,201920,Total,Mixed,White and Black African,FSM all other,1567,2874,53.3,:,98.4,54.8
+871,201920,Total,Unclassified,Unclassified,FSM,820,1411,37.9,:,93.5,26.5
+872,201920,Boys,Mixed,White and Black African,FSM all other,979,1420,49.4,:,97,49.9
+873,201920,Boys,Mixed,White and Asian,FSM,481,558,39.1,:,92.8,28.5
+874,201920,Total,Black,Black African,FSM all other,2071,16146,52.5,:,98.1,54.1
+875,201920,Boys,White,Traveller of Irish heritage,FSM all other,25,27,35.8,:,81.5,33.3
+876,201920,Boys,White,Any other white background,FSM,922,1601,39.5,:,92.6,29.7
+877,201920,Total,White,Any other white background,FSM all other,3150,27202,51.6,:,97.5,50.4
+878,201920,Total,Asian,Indian,FSM,504,1143,51.9,:,97.4,52.1
+879,201920,Total,Other,Any other ethnic group,FSM,987,2783,44.8,:,93.9,39.4
+880,201920,Total,Mixed,Any other mixed background,FSM,1258,2183,42.2,:,94.9,33.1
+881,201920,Boys,Other,Any other ethnic group,FSM all other,1404,3971,49.2,:,95.6,49.2
+882,201920,Total,Black,Black African,FSM,1269,5153,45.8,:,95.4,40.2
+883,201920,Total,Other,Any other ethnic group,FSM all other,1962,7739,52.7,:,96.8,54.5
+884,201920,Total,Black,Caribbean,FSM,747,2039,39,:,94.2,25
+885,201920,Total,Asian,Any other Asian background,FSM all other,1971,8816,59.1,:,98,68.6
+886,201920,Total,White,Traveller of Irish heritage,FSM all other,67,71,40.2,:,93,32.4
+887,201920,Girls,Other,Any other ethnic group,FSM,623,1309,48.2,:,95,43.5
+888,201920,Girls,Asian,Pakistani,FSM,700,2641,47.6,:,97.4,41.2
+889,201920,Total,Mixed,White and Asian,FSM all other,2177,5592,58.5,:,98.5,66
+890,201920,Total,Mixed,White and Black Caribbean,FSM,1235,2244,37,:,93.4,23
+891,201920,Total,Asian,Bangladeshi,FSM,617,2707,50,:,96.5,49.5
+892,201920,Total,Mixed,White and Black Caribbean,FSM all other,2109,5784,47.9,:,97.9,43.2
+893,201920,Total,Asian,Pakistani,FSM,1004,5162,44.7,:,96.5,38.4
+894,201920,Total,Asian,Pakistani,FSM all other,1684,19113,50.6,:,97.6,50.3
+895,201920,Boys,Black,Any other black background,Total,977,2214,42.7,:,94.6,32.9
+896,201920,Total,Asian,Any other Asian background,FSM,806,1431,46.4,:,93.4,42.9
+897,201920,Total,Black,Caribbean,FSM all other,1252,5339,45.9,:,97.4,38.5
+898,201920,Boys,White,White Irish,Total,555,837,52.3,:,97.6,56.8
+899,201920,Total,White,White Irish,FSM all other,806,1425,58.3,:,98.9,65
+900,201920,Total,Black,Any other black background,FSM all other,1227,3185,49.1,:,97.5,44.8
+901,201920,Girls,White,Traveller of Irish heritage,Total,82,85,35.4,:,94.1,23.5
+902,201920,Total,Mixed,White and Asian,FSM,813,1062,42.2,:,94.8,34
+903,201920,Total,White,White British,FSM,3782,55375,35.6,:,92.5,22.7
+904,201920,Boys,White,Gypsy/Roma,Total,370,687,21.2,:,85.3,6.7
+905,201920,Boys,Black,Black African,FSM all other,1544,7989,49.2,:,97.5,48.7
+906,201920,Girls,Asian,Indian,Total,1407,7821,63.3,:,99,74.4
+907,201920,Girls,Black,Any other black background,Total,915,2044,52.4,:,98.1,51.2
+908,201920,Total,Chinese,Chinese,FSM,126,140,62.8,:,97.9,72.9
+909,201920,Boys,Mixed,White and Asian,Total,1713,3410,52.5,:,97.2,56.1
+910,201920,Girls,Mixed,Any other mixed background,Total,2017,5426,54.9,:,97.8,56.3
+911,201920,Total,White,Gypsy/Roma,FSM all other,421,857,24.6,:,88.8,9.6
+912,201920,Girls,Mixed,White and Black African,Total,1161,1875,54.9,:,99.3,55.1
+913,201920,Girls,White,Gypsy/Roma,Total,349,667,25.6,:,89.2,9.4
+914,201920,Boys,Asian,Any other Asian background,Total,1581,5398,54.5,:,96.7,60.1
+915,201920,Girls,Asian,Bangladeshi,Total,971,5229,56.3,:,98.1,60
+916,201920,Boys,Chinese,Chinese,Total,653,957,65.4,:,98.3,75.1
+917,201920,Boys,Mixed,White and Black Caribbean,FSM all other,1460,2803,44.6,:,97.5,37.9
+918,201920,Total,Chinese,Chinese,FSM all other,1072,1819,68,:,98.9,80.2
+919,201920,Girls,White,White Irish,Total,532,811,59,:,98.4,63.7
+920,201920,Total,Asian,Bangladeshi,FSM all other,1342,7665,55.3,:,98,60
+921,201920,Total,Mixed,Any other mixed background,FSM all other,2566,8910,54.5,:,97.8,57.9
+922,201920,Girls,Black,Caribbean,Total,965,3678,47.8,:,97.7,40.4
+923,201920,Total,White,Any other white background,FSM,1445,3119,42.8,:,94.9,33.8
+924,201920,Total,White,White British,FSM all other,3887,327646,52.1,:,98.2,53.7
+925,201920,Girls,Black,Black African,Total,1681,10777,54.3,:,98.3,56
+926,201920,Boys,Mixed,White and Black African,Total,1159,1831,47.1,:,96.2,45.3
+927,201920,Girls,Mixed,White and Asian,Total,1621,3244,59.4,:,98.7,65.9
+928,201920,Girls,White,White British,Total,3591,187307,52.5,:,98.2,53.3
+929,201920,Boys,Mixed,Any other mixed background,Total,2088,5667,49.4,:,96.8,49.8
+930,201920,Boys,Mixed,White and Black Caribbean,Total,1755,3906,41.4,:,95.6,32.4
+931,201920,Total,Asian,Indian,Total,2004,16129,60.7,:,98.6,70.4
+932,201920,Girls,Asian,Pakistani,Total,1311,11995,51.9,:,98,50.4
+933,201920,Girls,Unclassified,Unclassified,Total,1385,4574,43.4,:,91.1,41.1
+934,201920,Total,White,White British,Total,3944,383021,49.7,:,97.3,49.2
+935,201920,Boys,White,Any other white background,Total,2762,15498,47.8,:,96.6,44.2
+936,201920,Girls,Chinese,Chinese,Total,649,1002,69.7,:,99.3,83.9
+937,201920,Total,Mixed,White and Asian,Total,2391,6654,55.9,:,97.9,60.9
+938,201920,Boys,White,White British,Total,3705,195714,47,:,96.5,45.3
+939,201920,Boys,Other,Any other ethnic group,Total,1597,5445,47.2,:,94.9,45.5
+940,201920,Total,Chinese,Chinese,Total,1121,1959,67.6,:,98.8,79.6
+941,201920,Girls,Mixed,White and Black Caribbean,Total,1706,4122,48.1,:,97.6,42.5
+942,201920,Boys,White,Traveller of Irish heritage,Total,69,75,27.8,:,81.3,16
+943,201920,Total,Asian,Bangladeshi,Total,1456,10372,53.9,:,97.6,57.3
+944,201920,Total,Unclassified,Unclassified,FSM all other,1852,8159,42,:,89.4,40.3
+945,201920,Total,White,White Irish,Total,930,1648,55.6,:,98,60.2
+946,201920,Total,White,Any other white background,Total,3242,30321,50.7,:,97.2,48.7
+947,201920,Boys,Asian,Pakistani,Total,1395,12280,46.8,:,96.8,45.2
+948,201920,Girls,White,Any other white background,Total,2673,14823,53.7,:,97.9,53.3
+949,201920,Total,Mixed,White and Black African,Total,1806,3706,51.1,:,97.8,50.3
+950,201920,Boys,Black,Caribbean,Total,1044,3700,40.1,:,95.3,29.2
+951,201920,Boys,Black,Black African,Total,1698,10522,47.4,:,96.6,45.3
+952,201920,Total,Unclassified,Unclassified,Total,2053,9570,41.4,:,90,38.2
+953,201920,Total,White,Gypsy/Roma,Total,594,1354,23.3,:,87.2,8.1
+954,201920,Total,Black,Any other black background,Total,1431,4258,47.4,:,96.3,41.7
+955,201920,Total,Mixed,Any other mixed background,Total,2782,11093,52.1,:,97.3,53
+956,201920,Boys,Asian,Indian,Total,1489,8308,58.2,:,98.3,66.6
+957,201920,Total,Other,Any other ethnic group,Total,2168,10522,50.6,:,96,50.5
+958,201920,Total,Black,Black African,Total,2231,21299,50.9,:,97.5,50.7
+959,201920,Total,Asian,Pakistani,Total,1804,24275,49.3,:,97.4,47.8
+960,201920,Total,Asian,Any other Asian background,Total,2136,10247,57.4,:,97.4,65
+961,201920,Total,White,Traveller of Irish heritage,Total,145,160,31.8,:,88.1,20
+962,201920,Boys,Asian,Bangladeshi,Total,1018,5143,51.5,:,97.1,54.4
+963,201819,Girls,Black,Total,FSM all other,1765,12150,50.2,0.49,98.7,45.6
+964,201819,Girls,Other,Total,FSM,572,1174,45.8,0.67,95.1,37.4
+965,201819,Girls,Asian,Total,FSM all other,2206,23576,55.3,0.78,98.7,57.8
+966,201819,Girls,White,Total,FSM all other,3517,174581,50.8,0.23,98.4,49.4
+967,201819,Girls,Other,Total,FSM all other,1226,3450,51.8,0.82,97.2,50
+968,201819,Girls,Chinese,Total,FSM,59,66,62.6,0.81,98.5,75.8
+969,201819,Boys,Chinese,Total,FSM,60,64,53.2,0.49,92.2,62.5
+970,201819,Girls,Unclassified,Total,FSM all other,1145,3186,44.4,-0.1,93.2,40.1
+971,201819,Boys,Mixed,Total,FSM all other,2586,10859,47.7,-0.12,97.4,46.4
+972,201819,Boys,Unclassified,Total,FSM all other,1192,3637,38.9,-0.53,90.2,35
+973,201819,Boys,Chinese,Total,FSM all other,638,938,63.3,0.75,98.1,74.1
+974,201819,Girls,Mixed,Total,FSM,1387,2707,40.2,-0.2,96,26.6
+975,201819,Girls,Chinese,Total,FSM all other,634,938,66.2,1.01,98.9,79.5
+976,201819,Girls,Asian,Total,FSM,1006,4527,46.9,0.44,97.8,39.5
+977,201819,Total,White,Any other white background,Total,3145,28214,46.8,0.45,97,41.5
+978,201819,Boys,Total,Total,FSM all other,3719,237750,46,-0.19,97.2,43.2
+979,201819,Total,Total,Total,Total,3965,542621,46.7,-0.03,97,43.2
+980,201819,Boys,Total,Total,Total,3740,276670,44,-0.27,96.1,40
+981,201819,Total,Total,Total,FSM all other,3955,466384,48.6,0.06,97.8,46.6
+982,201819,Girls,Total,Total,FSM all other,3613,228634,51.3,0.31,98.4,50.2
+983,201819,Girls,Total,Total,Total,3683,265951,49.5,0.22,97.8,46.6
+984,201819,Total,Total,Total,FSM,3903,76237,34.9,-0.53,92,22.5
+985,201819,Total,Unclassified,Total,FSM all other,1753,6823,41.5,-0.33,91.6,37.3
+986,201819,Boys,Asian,Total,FSM all other,2272,25141,50.1,0.28,97.6,51.9
+987,201819,Boys,Mixed,Total,FSM,1472,2699,33.5,-0.74,90.6,21.3
+988,201819,Total,Chinese,Total,FSM all other,1092,1876,64.8,0.88,98.5,76.8
+989,201819,Total,White,Total,FSM,3793,50614,32,-0.75,90.8,18.1
+990,201819,Total,Asian,Total,FSM all other,2828,48717,52.7,0.52,98.1,54.7
+991,201819,Boys,Black,Total,Total,2021,15519,41.1,-0.17,95.6,33
+992,201819,Girls,Unclassified,Total,FSM,419,590,36.2,-0.44,92.7,25.1
+993,201819,Girls,White,Total,Total,3608,199328,48.9,0.14,97.8,45.8
+994,201819,Boys,Asian,Total,Total,2365,30008,48.6,0.22,97.1,49.2
+995,201819,Total,Black,Total,FSM,1465,7131,39.4,-0.08,93.9,28
+996,201819,Girls,Black,Total,Total,1901,15656,48.7,0.43,98.1,42.5
+997,201819,Total,Black,Total,Total,2533,31175,44.9,0.13,96.9,37.8
+998,201819,Total,Black,Total,FSM all other,2370,24044,46.5,0.2,97.8,40.7
+999,201819,Boys,Other,Total,Total,1462,4983,44.5,0.24,95,40.3
+1000,201819,Total,Chinese,Total,Total,1135,2006,64.3,0.86,98.3,76.3
+1001,201819,Boys,Asian,Total,FSM,1127,4867,40.9,-0.08,94.6,35.1
+1002,201819,Boys,Unclassified,Total,Total,1344,4221,37.9,-0.58,90.2,32.7
+1003,201819,Total,White,Total,Total,3924,406707,46.1,-0.11,97,42.4
+1004,201819,Total,Mixed,Total,FSM all other,3149,21612,50.3,0.12,98,48.8
+1005,201819,Girls,Unclassified,Total,Total,1314,3776,43.1,-0.16,93.1,37.7
+1006,201819,Total,Unclassified,Total,Total,1943,7997,40.4,-0.38,91.6,35.1
+1007,201819,Boys,Black,Total,FSM,1081,3625,35.6,-0.36,91.6,24.1
+1008,201819,Boys,White,Total,FSM all other,3653,181512,45.6,-0.26,97.3,42.4
+1009,201819,Total,Mixed,Total,Total,3332,27018,47.6,0,97.1,43.8
+1010,201819,Boys,White,Total,Total,3694,207379,43.5,-0.35,96.2,39.1
+1011,201819,Total,Asian,Total,Total,2910,58111,51.2,0.47,97.8,51.9
+1012,201819,Total,Unclassified,Total,FSM,710,1174,34,-0.65,91.3,22
+1013,201819,Girls,Mixed,Total,Total,2727,13460,50.3,0.24,98.1,46.3
+1014,201819,Girls,Asian,Total,Total,2279,28103,54,0.72,98.5,54.8
+1015,201819,Total,White,Total,FSM all other,3897,356093,48.2,-0.02,97.8,45.8
+1016,201819,Boys,Chinese,Total,Total,669,1002,62.7,0.73,97.7,73.4
+1017,201819,Boys,Mixed,Total,Total,2825,13558,44.9,-0.25,96.1,41.4
+1018,201819,Girls,Chinese,Total,Total,662,1004,65.9,0.99,98.9,79.3
+1019,201819,Total,Other,Any other ethnic group,FSM all other,1860,7219,48.9,0.56,96.5,46.5
+1020,201819,Total,Mixed,White and Asian,FSM,672,847,38.9,-0.29,95.6,26.8
+1021,201819,Total,White,White British,FSM,3729,47358,31.8,-0.78,90.8,17.7
+1022,201819,Total,Other,Any other ethnic group,FSM,894,2388,42.4,0.34,93.8,34
+1023,201819,Total,Mixed,Any other mixed background,FSM,1142,1886,39.3,-0.31,93.5,28.4
+1024,201819,Total,White,Gypsy/Roma,FSM all other,380,825,20.2,-0.7,83.5,6.8
+1025,201819,Girls,Mixed,White and Black African,FSM all other,887,1288,52.5,0.42,98.9,47.8
+1026,201819,Total,Asian,Indian,FSM all other,1879,14359,58,0.74,98.7,65.4
+1027,201819,Total,White,Gypsy/Roma,FSM,259,418,16.9,-0.99,77.5,4.5
+1028,201819,Girls,White,Traveller of Irish heritage,FSM all other,26,29,38,-0.37,93.1,24.1
+1029,201819,Total,Asian,Bangladeshi,FSM all other,1289,7373,52,0.54,98.3,53
+1030,201819,Total,Mixed,Any other mixed background,FSM all other,2489,8222,51.5,0.24,98,51.3
+1031,201819,Total,Black,Caribbean,FSM,741,1896,34.1,-0.54,93.7,17.6
+1032,201819,Total,Asian,Any other Asian background,FSM all other,1987,8133,55.9,0.7,97.7,62.9
+1033,201819,Total,White,Traveller of Irish heritage,FSM all other,56,66,32.3,-0.91,86.4,16.7
+1034,201819,Total,Mixed,White and Asian,FSM all other,2076,5297,55.5,0.3,98.6,60.1
+1035,201819,Total,Mixed,White and Black Caribbean,FSM,1104,1974,32.4,-0.77,91.9,16.8
+1036,201819,Total,Asian,Bangladeshi,FSM,581,2504,46.4,0.3,96.4,42.3
+1037,201819,Boys,Mixed,White and Asian,FSM,379,429,36.5,-0.54,93.7,26.3
+1038,201819,Total,Black,Black African,FSM all other,2023,15481,48.8,0.37,97.9,45.5
+1039,201819,Boys,Asian,Indian,Total,1405,8082,54.9,0.5,98.2,60.6
+1040,201819,Total,White,White Irish,FSM all other,796,1474,54.3,0.23,98.4,59.1
+1041,201819,Total,Black,Any other black background,FSM all other,1191,2966,44.9,0.17,97.1,36.7
+1042,201819,Girls,White,Traveller of Irish heritage,Total,61,67,31.6,-0.55,83.6,17.9
+1043,201819,Total,Chinese,Chinese,FSM,112,130,57.9,0.66,95.4,69.2
+1044,201819,Boys,Mixed,White and Asian,Total,1592,3130,51,0.02,97.5,53.3
+1045,201819,Girls,Mixed,Any other mixed background,Total,1903,4926,51.8,0.39,98,49.3
+1046,201819,Girls,White,Gypsy/Roma,FSM,141,206,20.2,-0.7,81.6,6.3
+1047,201819,Girls,Mixed,White and Black Caribbean,FSM all other,1443,2850,47.2,0.04,98.2,39.2
+1048,201819,Boys,White,White British,Total,3656,191322,43.6,-0.38,96.2,39.2
+1049,201819,Boys,Black,Any other black background,Total,917,1941,38.7,-0.23,93.9,28.8
+1050,201819,Girls,Asian,Pakistani,Total,1247,11439,48.9,0.52,98.1,43.6
+1051,201819,Girls,Unclassified,Unclassified,Total,1314,3776,43.1,-0.16,93.1,37.7
+1052,201819,Total,Black,Caribbean,FSM all other,1275,5597,41.2,-0.23,97.9,29.5
+1053,201819,Boys,White,White Irish,Total,553,878,49.7,-0.11,97.3,53.6
+1054,201819,Boys,Asian,Any other Asian background,Total,1508,4921,51.1,0.42,96.2,55.5
+1055,201819,Boys,Chinese,Chinese,FSM,60,64,53.2,0.49,92.2,62.5
+1056,201819,Boys,Black,Black African,FSM all other,1528,7619,45.1,0.07,96.9,40.6
+1057,201819,Girls,Asian,Indian,Total,1354,7347,60,0.94,99,68
+1058,201819,Total,Mixed,White and Black Caribbean,FSM all other,2071,5530,44,-0.24,97.5,36.1
+1059,201819,Girls,Asian,Any other Asian background,Total,1415,4382,58.3,0.93,98.4,65.3
+1060,201819,Boys,Unclassified,Unclassified,Total,1344,4221,37.9,-0.58,90.2,32.7
+1061,201819,Girls,Mixed,White and Black African,Total,1050,1645,50.6,0.33,98.3,44.3
+1062,201819,Girls,White,Gypsy/Roma,Total,313,628,21.4,-0.62,85,7
+1063,201819,Boys,Black,Caribbean,Total,1027,3776,35.7,-0.61,95.8,21.9
+1064,201819,Boys,Mixed,White and Black Caribbean,FSM all other,1411,2680,40.6,-0.53,96.6,32.8
+1065,201819,Total,Chinese,Chinese,FSM all other,1092,1876,64.8,0.88,98.5,76.8
+1066,201819,Girls,White,White Irish,Total,519,810,54.7,0.4,98,56.3
+1067,201819,Girls,Mixed,Total,FSM all other,2573,10753,52.9,0.36,98.6,51.2
+1068,201819,Boys,Other,Total,FSM,577,1214,39.1,0.03,92.5,30.6
+1069,201819,Boys,Unclassified,Total,FSM,421,584,31.7,-0.86,89.9,18.8
+1070,201819,Boys,Black,Total,FSM all other,1855,11894,42.8,-0.11,96.9,35.7
+1071,201819,Boys,White,Total,FSM,3492,25867,29.3,-0.98,88.3,15.9
+1072,201819,Total,Asian,Total,FSM,1510,9394,43.8,0.17,96.1,37.2
+1073,201819,Boys,Other,Total,FSM all other,1297,3769,46.3,0.3,95.8,43.4
+1074,201819,Total,Other,Total,FSM all other,1860,7219,48.9,0.56,96.5,46.5
+1075,201819,Total,Mixed,Total,FSM,2132,5406,36.9,-0.47,93.3,24
+1076,201819,Total,Chinese,Total,FSM,112,130,57.9,0.66,95.4,69.2
+1077,201819,Total,Other,Total,FSM,894,2388,42.4,0.34,93.8,34
+1078,201819,Girls,Total,Total,FSM,3474,37317,37.9,-0.28,94.5,25
+1079,201819,Boys,Mixed,Any other mixed background,FSM,721,979,36.3,-0.57,91.1,25.8
+1080,201819,Girls,White,White British,FSM all other,3445,160877,50.9,0.2,98.5,49.7
+1081,201819,Boys,Black,Caribbean,FSM all other,879,2812,37.6,-0.54,97.2,24.5
+1082,201819,Boys,Black,Black African,FSM,805,2183,38.6,-0.11,92.4,29.3
+1083,201819,Girls,Other,Any other ethnic group,FSM,572,1174,45.8,0.67,95.1,37.4
+1084,201819,Girls,Asian,Pakistani,FSM,614,2234,43.8,0.29,97.5,32.8
+1085,201819,Boys,Mixed,White and Asian,FSM all other,1415,2701,53.3,0.11,98.1,57.5
+1086,201819,Girls,Unclassified,Unclassified,FSM,419,590,36.2,-0.44,92.7,25.1
+1087,201819,Boys,Unclassified,Unclassified,FSM,421,584,31.7,-0.86,89.9,18.8
+1088,201819,Girls,White,Any other white background,FSM,714,1184,41.5,0.23,94.9,30.3
+1089,201819,Girls,Chinese,Chinese,FSM all other,634,938,66.2,1.01,98.9,79.5
+1090,201819,Girls,Asian,Any other Asian background,FSM,363,535,49.5,0.65,96.4,48
+1091,201819,Girls,Mixed,White and Asian,FSM all other,1389,2596,57.7,0.5,99.1,62.7
+1092,201819,Girls,White,White Irish,FSM,101,107,41,-0.12,93.5,27.1
+1093,201819,Boys,Asian,Bangladeshi,FSM all other,901,3694,49.8,0.3,97.6,51.4
+1094,201819,Boys,Other,Any other ethnic group,FSM,577,1214,39.1,0.03,92.5,30.6
+1095,201819,Girls,Asian,Indian,FSM all other,1311,6845,60.6,0.96,99,69.4
+1096,201819,Girls,Mixed,Any other mixed background,FSM all other,1748,4019,53.9,0.49,98.5,53.4
+1097,201819,Boys,White,White Irish,FSM,100,107,33,-0.89,90.7,25.2
+1098,201819,Boys,Asian,Pakistani,FSM,670,2416,38.4,-0.22,95.4,30.4
+1099,201819,Girls,Asian,Bangladeshi,FSM,362,1256,49.3,0.56,98.6,43.6
+1100,201819,Girls,Unclassified,Unclassified,FSM all other,1145,3186,44.4,-0.1,93.2,40.1
+1101,201819,Boys,Asian,Any other Asian background,FSM all other,1397,4286,52.6,0.46,96.9,58.7
+1102,201819,Boys,White,White British,FSM,3422,24146,29,-1.01,88.2,15.3
+1103,201819,Boys,White,White Irish,FSM all other,481,771,52,0,98.2,57.6
+1104,201819,Boys,Black,Any other black background,FSM all other,787,1463,40.6,-0.14,95.8,31.6
+1105,201819,Girls,Black,Caribbean,FSM,459,932,38.2,-0.25,96,21
+1106,201819,Total,White,White Irish,FSM,196,214,37,-0.51,92.1,26.2
+1107,201819,Total,Black,Any other black background,FSM,539,909,36.7,-0.23,91,23.5
+1108,201819,Total,Asian,Any other Asian background,FSM,703,1170,45,0.36,93.8,40.5
+1109,201819,Total,Mixed,White and Black African,FSM,571,699,40.2,-0.26,94,28.8
+1110,201819,Total,Mixed,White and Black African,FSM all other,1447,2563,49.4,0.13,98.1,44.9
+1111,201819,Total,Unclassified,Unclassified,FSM,710,1174,34,-0.65,91.3,22
+1112,201819,Boys,Unclassified,Unclassified,FSM all other,1192,3637,38.9,-0.53,90.2,35
+1113,201819,Boys,Other,Any other ethnic group,FSM all other,1297,3769,46.3,0.3,95.8,43.4
+1114,201819,Total,Black,Black African,FSM,1126,4326,42.3,0.17,94.5,33.5
+1115,201819,Total,White,Traveller of Irish heritage,FSM,81,85,22.2,-1.16,71.8,11.8
+1116,201819,Total,Asian,Pakistani,FSM,916,4650,41,0.03,96.4,31.5
+1117,201819,Total,Asian,Pakistani,FSM all other,1621,18852,47.4,0.3,97.8,43.7
+1118,201819,Girls,Mixed,Any other mixed background,FSM,622,907,42.5,-0.03,96,31.2
+1119,201819,Total,White,Any other white background,FSM,1212,2539,39,-0.03,94,28.6
+1120,201819,Total,White,White British,FSM all other,3849,328053,48.2,-0.05,97.9,46.1
+1121,201819,Girls,Black,Any other black background,FSM all other,755,1503,49,0.47,98.3,41.7
+1122,201819,Girls,Black,Black African,FSM,776,2143,46.1,0.45,96.7,37.8
+1123,201819,Total,Asian,Indian,FSM,491,1070,48.2,0.34,96.8,46.5
+1124,201819,Girls,Black,Caribbean,Total,993,3717,43.2,0,98,31.2
+1125,201819,Girls,Other,Any other ethnic group,Total,1406,4624,50.3,0.78,96.7,46.8
+1126,201819,Boys,White,Gypsy/Roma,Total,339,615,16.7,-1.01,77.9,5
+1127,201819,Boys,Black,Black African,Total,1669,9802,43.7,0.03,95.9,38.1
+1128,201819,Total,Unclassified,Unclassified,Total,1943,7997,40.4,-0.38,91.6,35.1
+1129,201819,Girls,Asian,Bangladeshi,Total,902,4935,53,0.72,98.8,51.8
+1130,201819,Boys,Chinese,Chinese,Total,669,1002,62.7,0.73,97.7,73.4
+1131,201819,Girls,Black,Total,FSM,1012,3506,43.4,0.21,96.2,32.1
+1132,201819,Girls,White,Total,FSM,3305,24747,34.9,-0.51,93.4,20.5
+1133,201819,Total,Other,Total,Total,2059,9607,47.3,0.5,95.8,43.4
+1134,201819,Girls,Other,Total,Total,1406,4624,50.3,0.78,96.7,46.8
+1135,201819,Boys,Total,Total,FSM,3630,38920,32,-0.77,89.7,20
+1136,201819,Girls,Other,Any other ethnic group,FSM all other,1226,3450,51.8,0.82,97.2,50
+1137,201819,Boys,White,Traveller of Irish heritage,FSM,46,47,18.6,-1.51,68.1,10.6
+1138,201819,Girls,Asian,Bangladeshi,FSM all other,827,3679,54.2,0.78,98.9,54.5
+1139,201819,Boys,White,White British,FSM all other,3598,167176,45.7,-0.29,97.4,42.6
+1140,201819,Girls,Black,Caribbean,FSM all other,882,2785,44.9,0.09,98.6,34.5
+1141,201819,Boys,White,Gypsy/Roma,FSM all other,234,403,18.2,-0.84,80.1,6.2
+1142,201819,Girls,Asian,Indian,FSM,283,502,51.7,0.63,98.4,50
+1143,201819,Girls,White,Gypsy/Roma,FSM all other,234,422,22,-0.57,86.7,7.3
+1144,201819,Boys,White,Gypsy/Roma,FSM,158,212,13.8,-1.26,73.6,2.8
+1145,201819,Boys,Black,Caribbean,FSM,503,964,30.2,-0.81,91.5,14.2
+1146,201819,Girls,White,White British,FSM,3232,23212,34.7,-0.54,93.5,20.1
+1147,201819,Boys,Asian,Indian,FSM,308,568,45.1,0.07,95.4,43.5
+1148,201819,Boys,Mixed,Any other mixed background,FSM all other,1783,4203,49.2,0.01,97.5,49.3
+1149,201819,Boys,Mixed,White and Black African,FSM,311,342,36.8,-0.59,91.8,25.7
+1150,201819,Boys,Mixed,White and Black Caribbean,FSM,681,949,28,-1.06,88.2,12.8
+1151,201819,Boys,Asian,Pakistani,FSM all other,1231,9647,44.9,0.02,97.3,41.3
+1152,201819,Girls,Asian,Any other Asian background,FSM all other,1321,3847,59.5,0.97,98.7,67.7
+1153,201819,Boys,White,Any other white background,FSM all other,2560,13125,45,0.25,96.9,39.6
+1154,201819,Girls,Mixed,White and Black African,FSM,308,357,43.5,0.05,96.1,31.7
+1155,201819,Boys,Asian,Any other Asian background,FSM,452,635,41.2,0.11,91.7,34.2
+1156,201819,Boys,Asian,Indian,FSM all other,1354,7514,55.7,0.53,98.4,61.9
+1157,201819,Girls,Chinese,Chinese,FSM,59,66,62.6,0.81,98.5,75.8
+1158,201819,Girls,Black,Black African,FSM all other,1471,7862,52.3,0.66,98.8,50.2
+1159,201819,Boys,Chinese,Chinese,FSM all other,638,938,63.3,0.75,98.1,74.1
+1160,201819,Boys,White,Traveller of Irish heritage,FSM all other,34,37,27.8,-1.38,81.1,10.8
+1161,201819,Boys,White,Any other white background,FSM,813,1355,36.9,-0.26,93.2,27.2
+1162,201819,Girls,White,Traveller of Irish heritage,FSM,36,38,26.8,-0.71,76.3,13.2
+1163,201819,Girls,Black,Any other black background,FSM,307,431,41,0.09,94.4,27.4
+1164,201819,Girls,White,Any other white background,FSM all other,2495,12550,50.3,0.77,97.6,46
+1165,201819,Girls,Mixed,White and Asian,FSM,365,418,41.4,-0.04,97.6,27.3
+1166,201819,Girls,Asian,Pakistani,FSM all other,1158,9205,50.1,0.58,98.3,46.3
+1167,201819,Girls,Mixed,White and Black Caribbean,FSM,687,1025,36.5,-0.5,95.4,20.6
+1168,201819,Girls,White,White Irish,FSM all other,444,703,56.8,0.48,98.7,60.7
+1169,201819,Boys,Black,Any other black background,FSM,333,478,32.9,-0.5,87.9,20.1
+1170,201819,Boys,Mixed,White and Black African,FSM all other,902,1275,46.2,-0.17,97.3,42
+1171,201819,Total,White,Any other white background,FSM all other,3066,25675,47.6,0.51,97.3,42.7
+1172,201819,Girls,Mixed,White and Black Caribbean,Total,1672,3875,44.4,-0.1,97.5,34.3
+1173,201819,Boys,White,Traveller of Irish heritage,Total,76,84,22.7,-1.46,73.8,10.7
+1174,201819,Girls,Black,Black African,Total,1583,10005,51,0.61,98.3,47.6
+1175,201819,Boys,Mixed,White and Black African,Total,1085,1617,44.2,-0.26,96.1,38.6
+1176,201819,Girls,Mixed,White and Asian,Total,1551,3014,55.5,0.43,98.9,57.8
+1177,201819,Boys,Mixed,Any other mixed background,Total,2015,5182,46.8,-0.1,96.3,44.9
+1178,201819,Boys,Mixed,White and Black Caribbean,Total,1670,3629,37.3,-0.67,94.4,27.6
+1179,201819,Total,Asian,Indian,Total,1935,15429,57.3,0.71,98.6,64.1
+1180,201819,Boys,White,Any other white background,Total,2653,14480,44.2,0.19,96.6,38.4
+1181,201819,Girls,Chinese,Chinese,Total,662,1004,65.9,0.99,98.9,79.3
+1182,201819,Total,Mixed,White and Asian,Total,2259,6144,53.2,0.22,98.2,55.5
+1183,201819,Girls,White,White British,Total,3552,184089,48.9,0.1,97.9,46
+1184,201819,Total,Black,Black African,Total,2156,19807,47.4,0.33,97.1,42.9
+1185,201819,Total,Asian,Pakistani,Total,1729,23502,46.2,0.24,97.5,41.3
+1186,201819,Boys,Asian,Pakistani,Total,1328,12063,43.6,-0.03,96.9,39.1
+1187,201819,Girls,White,Any other white background,Total,2561,13734,49.5,0.72,97.4,44.7
+1188,201819,Total,Mixed,White and Black African,Total,1685,3262,47.4,0.04,97.2,41.5
+1189,201819,Girls,Black,Any other black background,Total,863,1934,47.2,0.38,97.4,38.5
+1190,201819,Total,White,Gypsy/Roma,Total,531,1243,19.1,-0.81,81.5,6
+1191,201819,Total,Black,Any other black background,Total,1344,3875,43,0.08,95.6,33.7
+1192,201819,Boys,Asian,Bangladeshi,FSM,391,1248,43.6,0.04,94.2,41
+1193,201819,Total,Unclassified,Unclassified,FSM all other,1753,6823,41.5,-0.33,91.6,37.3
+1194,201819,Total,White,White Irish,Total,922,1688,52.1,0.13,97.6,54.9
+1195,201819,Boys,Asian,Bangladeshi,Total,983,4942,48.2,0.23,96.8,48.8
+1196,201819,Total,Black,Caribbean,Total,1438,7493,39.4,-0.31,96.9,26.5
+1197,201819,Total,White,White British,Total,3891,375411,46.2,-0.14,97,42.5
+1198,201819,Total,Asian,Any other Asian background,Total,2103,9303,54.5,0.66,97.3,60.1
+1199,201819,Total,White,Traveller of Irish heritage,Total,131,151,26.6,-1.05,78.1,13.9
+1200,201819,Total,Other,Any other ethnic group,Total,2059,9607,47.3,0.5,95.8,43.4
+1201,201819,Total,Asian,Bangladeshi,Total,1392,9877,50.6,0.47,97.8,50.3
+1202,201819,Boys,Other,Any other ethnic group,Total,1462,4983,44.5,0.24,95,40.3
+1203,201819,Total,Chinese,Chinese,Total,1135,2006,64.3,0.86,98.3,76.3
+1204,201819,Total,Mixed,Any other mixed background,Total,2693,10108,49.2,0.14,97.1,47
+1205,201819,Total,Mixed,White and Black Caribbean,Total,2325,7504,41,-0.38,96,31
