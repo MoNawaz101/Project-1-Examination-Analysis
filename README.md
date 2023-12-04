@@ -3,7 +3,7 @@
 
 ![Students celebrating examination results](https://i2-prod.dailyrecord.co.uk/incoming/article27697944.ece/ALTERNATES/s810/1_Park-Mains-High-school-pupils-in-Erskine-celebrate-their-success-in-this-years-exam-results-Photo.jpg)
   
-This was a group project by six [contributors](Contributors). The purpose was to to analyse UK government data on GCSE examinations in England to see whether there were any trends based on various characteristcs.
+This was a group project by six [contributors](#Contributors). The purpose was to to analyse UK government data on GCSE examinations in England to see whether there were any trends based on various characteristcs.
   
 # Contents
 - [Dataset](#Dataset)
