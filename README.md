@@ -7,7 +7,7 @@ This was a group project by six [contributors](Contributors). The purpose was to
   
 # Contents
 - [Dataset](##-Dataset)
-- [Project Outline]("Project%20Outline")
+- [Project Outline](##-Project-Outline)
 - [Presentation](Presentation)
 - [Dependencies](Dependencies)
 - [How to Run the Code](How%20to%20%20Run%20the%20Code)
