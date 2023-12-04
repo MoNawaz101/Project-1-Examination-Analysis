@@ -7,14 +7,15 @@ This was a group project by six [contributors](Contributors). The purpose was to
   
 # Contents
 - [Dataset](Dataset)
-- [Project Outline]("Project Outline")
+- [Project Outline]("Project%20Outline")
 - [Presentation](Presentation)
 - [Dependencies](Dependencies)
-- [How to Run the Code](How to Run the Code)
-- [Jupyter Files Guide]
-- [Processed Data Files]
-- [Graphs]
+- [How to Run the Code](How%20to%20%20Run%20the%20Code)
+- [Jupyter Files Guide](Jupyter%20Files%20Guide)
+- [Processed Data Files](Processed%20Data%20Files)
+- [Graphs](Graphs)
 - [Repository Structure]
+- [Contributors](Contributors)
   
 ## Dataset
   
