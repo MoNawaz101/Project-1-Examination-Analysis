@@ -37,7 +37,7 @@ Q4. Does geographical location affect students GCSE outcomes?
 Q5. Was there a difference in GCSE outcomes between state and independent schools during COVID?  
 Q6. Are some subjects easier to get a Grade 9 in than others?  
     
-The key to this analysis is understanding the educational measures of comparison i.e understanding what is meant by attainment8 and progress8. An explanation of these can be found [here](https://blog.teamsatchel.com/hubfs/attainment-8-progress-8/understanding-progress-8-and-attainment-8-guide-updated.pdf?_hsenc=p2ANqtz--mMC7EY3_ViZu0TCTPKC__Rl8OVLuyLcMRsrv2VUM3QvoVA1eKjrIhnl_gjPAvLt4LQplTBzfUXm3IfiW_9pZZs2FBkw&_hsmi=73553619&hsCtaTracking=ee55283f-6588-4711-8425-3f54f663067c%7Cd685e0f9-2208-40fd-afda-adfdebc83226#:~:text=Progress%208%20has%20been%20introduced,of%20Attainment%208%20is%20necessary.). They are also explained in the presentation powerpoint [here](Project%201%20Presentation.pptx) and pdf.
+The key to this analysis is understanding the educational measures of comparison i.e understanding what is meant by attainment8 and progress8. An explanation of these can be found [here](https://blog.teamsatchel.com/hubfs/attainment-8-progress-8/understanding-progress-8-and-attainment-8-guide-updated.pdf?_hsenc=p2ANqtz--mMC7EY3_ViZu0TCTPKC__Rl8OVLuyLcMRsrv2VUM3QvoVA1eKjrIhnl_gjPAvLt4LQplTBzfUXm3IfiW_9pZZs2FBkw&_hsmi=73553619&hsCtaTracking=ee55283f-6588-4711-8425-3f54f663067c%7Cd685e0f9-2208-40fd-afda-adfdebc83226#:~:text=Progress%208%20has%20been%20introduced,of%20Attainment%208%20is%20necessary.). They are also explained in the presentation powerpoint [here](Project%201%20Presentation.pptx) and pdf [here](Project%201%20Presentation.pdf).
   
 ## Presentation
     
@@ -90,7 +90,16 @@ These are in the folder [Graphs](Graphs/)
 They are the graphs produced by the Jupyter notebook files described in the section Jupyter Files Guide.
 The first two characters i.e. Q1 show which question/ file the graphs are associated with.
 
-# Contributors
+## Repository Structure
+
+- Notebook code files in the root directory
+- Presentation powerpoint and pdf in the root directory
+- Original data CSV files from gov.uk in [Data_original](Data_original)
+- Processed data CSV files in [Data_processed](Data_processed)
+- Graphs that were produced by the notebook files in [Graphs](Graphs/)
+- 
+
+## Contributors
 - Mohammed Nawaz - Researched Q1
 - Elcin Imanci - Researched Q2
 - Kashfi Khalid - Reasearched Q3
