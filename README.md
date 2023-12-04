@@ -37,7 +37,7 @@ Q4. Does geographical location affect students GCSE outcomes?
 Q5. Was there a difference in GCSE outcomes between state and independent schools during COVID?  
 Q6. Are some subjects easier to get a Grade 9 in than others?  
     
-The key to this analysis is understanding the educational measures of comparison i.e understanding what is meant by attainment8 and progress8. An explanation of these can be found [here](https://blog.teamsatchel.com/hubfs/attainment-8-progress-8/understanding-progress-8-and-attainment-8-guide-updated.pdf?_hsenc=p2ANqtz--mMC7EY3_ViZu0TCTPKC__Rl8OVLuyLcMRsrv2VUM3QvoVA1eKjrIhnl_gjPAvLt4LQplTBzfUXm3IfiW_9pZZs2FBkw&_hsmi=73553619&hsCtaTracking=ee55283f-6588-4711-8425-3f54f663067c%7Cd685e0f9-2208-40fd-afda-adfdebc83226#:~:text=Progress%208%20has%20been%20introduced,of%20Attainment%208%20is%20necessary.). They are also explain in the presentation powerpoint [here](Project%201%20Presentation.pptx) and pdf.
+The key to this analysis is understanding the educational measures of comparison i.e understanding what is meant by attainment8 and progress8. An explanation of these can be found [here](https://blog.teamsatchel.com/hubfs/attainment-8-progress-8/understanding-progress-8-and-attainment-8-guide-updated.pdf?_hsenc=p2ANqtz--mMC7EY3_ViZu0TCTPKC__Rl8OVLuyLcMRsrv2VUM3QvoVA1eKjrIhnl_gjPAvLt4LQplTBzfUXm3IfiW_9pZZs2FBkw&_hsmi=73553619&hsCtaTracking=ee55283f-6588-4711-8425-3f54f663067c%7Cd685e0f9-2208-40fd-afda-adfdebc83226#:~:text=Progress%208%20has%20been%20introduced,of%20Attainment%208%20is%20necessary.). They are also explained in the presentation powerpoint [here](Project%201%20Presentation.pptx) and pdf.
   
 ## Presentation
     
