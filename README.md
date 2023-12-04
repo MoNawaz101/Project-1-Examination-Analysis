@@ -37,12 +37,12 @@ Q4. Does geographical location affect students GCSE outcomes?
 Q5. Was there a difference in GCSE outcomes between state and independent schools during COVID?  
 Q6. Are some subjects easier to get a Grade 9 in than others?  
     
-The key to this analysis is understanding the educational measures of comparison i.e understanding what is meant by attainment8 and progress8. An explanation of these can be found [here](https://blog.teamsatchel.com/hubfs/attainment-8-progress-8/understanding-progress-8-and-attainment-8-guide-updated.pdf?_hsenc=p2ANqtz--mMC7EY3_ViZu0TCTPKC__Rl8OVLuyLcMRsrv2VUM3QvoVA1eKjrIhnl_gjPAvLt4LQplTBzfUXm3IfiW_9pZZs2FBkw&_hsmi=73553619&hsCtaTracking=ee55283f-6588-4711-8425-3f54f663067c%7Cd685e0f9-2208-40fd-afda-adfdebc83226#:~:text=Progress%208%20has%20been%20introduced,of%20Attainment%208%20is%20necessary.). They are also explain in the presentation powerpoint and pdf.
+The key to this analysis is understanding the educational measures of comparison i.e understanding what is meant by attainment8 and progress8. An explanation of these can be found [here](https://blog.teamsatchel.com/hubfs/attainment-8-progress-8/understanding-progress-8-and-attainment-8-guide-updated.pdf?_hsenc=p2ANqtz--mMC7EY3_ViZu0TCTPKC__Rl8OVLuyLcMRsrv2VUM3QvoVA1eKjrIhnl_gjPAvLt4LQplTBzfUXm3IfiW_9pZZs2FBkw&_hsmi=73553619&hsCtaTracking=ee55283f-6588-4711-8425-3f54f663067c%7Cd685e0f9-2208-40fd-afda-adfdebc83226#:~:text=Progress%208%20has%20been%20introduced,of%20Attainment%208%20is%20necessary.). They are also explain in the presentation powerpoint [here](Project%201%20Presentation.pptx) and pdf.
   
 ## Presentation
     
 There are two files in which the findings have been shown:
-- Project 1 Presentation.ppt
+- [Project 1 Presentation.pptx](Project%201%20Presentation.pptx)
 - Project 1 Presentation.pdf
   
 ## Dependencies
@@ -62,12 +62,12 @@ A gmaps api key will also be required.
 1. Clone the repository  
 2. Run the Jupyter notebook file Data_extraction_from_gov_files.ipynb to extract all the data to be used from the Department of Education files in the folder Data_original. The extracted csv files will be placed in the folder Data_processed.
 3. Run the Jupyter notebook files label Q*.ipynb where * is the number and name of the question being looked at. The Jupyter files are described in more detail in the Jupyter Files Guide section.
-4. To view png files of the graphs produced look in the folder Graphs/.
+4. To view png files of the graphs produced look in the folder [Graphs](Graphs/).
   
 ## Jupyter Files Guide
   
-- Data_extraction_from_gov_files.ipynb  -  Extracts data from the Department for Education CSV files (in Data_original) and places the extracted data in the folder Data_processed/
-- Q1_visualisation_using_seaborn.ipynb  -  Uses the saved data on gender, ethnicity and free school meals (FSM) to produce seaborn bar plots and regression plots which look at the effect of these factors on GCSE outcomes. The graphs produced are saved into the folder Graphs/
+- Data_extraction_from_gov_files.ipynb  -  Extracts data from the Department for Education CSV files (in [Data_original](Data_original)) and places the extracted data in the folder [Data_processed](Data_processed).
+- Q1_visualisation_using_seaborn.ipynb  -  Uses the saved data on gender, ethnicity and free school meals (FSM) to produce seaborn bar plots and regression plots which look at the effect of these factors on GCSE outcomes. The graphs produced are saved into the folder [Graphs](Graphs/).
 - Q1_statistical_analysis - Uses the gender, ethnicity and FSM data to do a statistical analysis using Anova and Tukey methods. Also produces box plots of the data.  
 - Q4_regional_analysis - Uses local authority data provided by the DofE to see if there is a geographical variation in GCSE outcomes. This is then compared to government data on employment and parental qualifications to see if there is a correlation.
 
@@ -85,7 +85,7 @@ A gmaps api key will also be required.
 
 ## Graphs
   
-These are in the folder Graphs/
+These are in the folder [Graphs](Graphs/)
 
 They are the graphs produced by the Jupyter notebook files described in the section Jupyter Files Guide.
 The first two characters i.e. Q1 show which question/ file the graphs are associated with.
