@@ -25,8 +25,11 @@ data-guidance.txt explains the variables in the CSV files.
   
 ## Project Outline
   
-The aim of the project was to discover whether GCSE examination results had any inherent dependencies on factors such as gender, ethnicity etc.  
+The aim of the project was to discover whether GCSE examination results had any inherent dependencies on factors such as gender,   
+ethnicity etc.  
+  
 Six questions were formulated to discover whether such dependencies existed. The questions are as follows:  
+  
 Q1. Does gender, ethnicity and social class affect GCSE outcomes and which has the biggest influence?  
 Q2. Is there a gender difference in the subjects that students take for their GCSEs?  
 Q3. Does the type of school attended affect GCSE outcomes?  
