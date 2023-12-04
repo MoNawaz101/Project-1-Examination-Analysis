@@ -7,20 +7,20 @@ This was a group project by six [contributors](Contributors). The purpose was to
   
 # Contents
 - [Dataset](#Dataset)
-- [Project Outline](##-Project-Outline)
-- [Presentation](Presentation)
-- [Dependencies](Dependencies)
-- [How to Run the Code](How%20to%20%20Run%20the%20Code)
-- [Jupyter Files Guide](Jupyter%20Files%20Guide)
-- [Processed Data Files](Processed%20Data%20Files)
-- [Graphs](Graphs)
-- [Repository Structure]
+- [Project Outline](#Project-Outline)
+- [Presentation](#Presentation)
+- [Dependencies](#Dependencies)
+- [How to Run the Code](#How-to-Run-the-Code)
+- [Jupyter Files Guide](#Jupyter-Files-Guide)
+- [Processed Data Files](#Processed-Data-Files)
+- [Graphs](#Graphs)
+- [Repository Structure](#Repository-Structure)
 - [Contributors](Contributors)
   
 ## Dataset
   
 We used the GCSE examination results from (https://www.gov.uk/government/collections/statistics-gcses-key-stage-4)  
-The downloaded CSV files are in the folder [Data_original](Data_original/) along with a folder ([data-guidance](Data_original/data-guidance)) which contains a file ([data-guidance.txt](Data_original/data-guidance/data-guidance.txt)).  
+The downloaded CSV files are in the folder [Data_original](Data_original) along with a folder ([data-guidance](Data_original/data-guidance)) which contains a file ([data-guidance.txt](Data_original/data-guidance/data-guidance.txt)).  
 data-guidance.txt explains the variables in the CSV files.
   
 ## Project Outline
