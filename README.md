@@ -20,10 +20,9 @@ This was a group project by six [contributors](Contributors). The purpose was to
 ## Dataset
   
 We used the GCSE examination results from (https://www.gov.uk/government/collections/statistics-gcses-key-stage-4)  
-The downloaded CSV files are in the folder [Data_original](Data_original/)   
-along with a folder ([data-guidance](Data_original/data-guidance))  
-which contains a file ([data-guidance.txt](Data_original/data-guidance/data-guidance.txt))  
-which explains the variables in the CSV files.
+The downloaded CSV files are in the folder [Data_original](Data_original/) along with a folder ([data-guidance](Data_original/data-guidance))  
+which contains a file ([data-guidance.txt](Data_original/data-guidance/data-guidance.txt)).  
+data-guidance.txt explains the variables in the CSV files.
   
 ## Project Outline
   
