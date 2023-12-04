@@ -6,7 +6,7 @@
 This was a group project by six [contributors](Contributors). The purpose was to to analyse UK government data on GCSE examinations in England to see whether there were any trends based on various characteristcs.
   
 # Contents
-- [Dataset](#-Dataset)
+- [Dataset](#Dataset)
 - [Project Outline](##-Project-Outline)
 - [Presentation](Presentation)
 - [Dependencies](Dependencies)
